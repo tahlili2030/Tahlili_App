@@ -1,0 +1,1238 @@
+﻿YourExaminationThroughYourInsurance: Browse by Insurance
+Al Rajhi Takaful: Al Rajhi Takaful
+Tawuniya: Tawuniya
+Malath: Malath
+Bupa: Bupa
+TermsAndConditions: Terms and Conditons
+#APIS RESPONSE
+Zone: Zone
+InvalidEmailOrPassword : Invalid email or password.
+ThePhoneNumberHasBeenSuccessfullyVerified : The phone number has been successfully verified.
+TwoFactorAuthenticationCodeRequired : Two-factor authentication code required.
+AccountLockedPleaseTryAgainLater : Account is locked. Please try again later.
+YouCannotRegisterAsAdmin : You can not register as admin
+Name: Name
+BlockedFromCashMsg: Please note that you are blocked from cash and credit card on visit at this moment
+Patient Not Found: Patient was not Found
+AUserWithTheProvidedIDNumberAlreadyExistsInOurRecords.: A User With The Provided ID Number Already Exists In Our Records.
+HomeAddress: Home
+Street: 123 street, Abc dist, City
+SelectCity: Select City
+61: "61"
+CancelOrder: Cancel Reservation
+SearchForPlace: Search for your Location
+ShowReceipt: Show Receipt
+AreYouSure: Are You Sure ?
+Age: Age
+RescheduleNow: Reschedule Now
+OrderIsCancelledSuccessfully: Reservation is Cancelled Successfully
+OrderIsRescheduledSuccessfully: Reservation is Rescheduled Successfully
+PrivacyPolicy: Privacy Policy
+CurrentOrderState: Current Reservation State
+Details: Details
+TheProvidedPhoneNumberIsNotAssociatedWithAnyAccount: The Provided Phone Number Is Not Associated With Any Account
+AValidOTPIsStillActive.PleaseWaitUntilThePreviousOneExpiresBeforeRequestingANewOne.: A Valid OTP Is Still Active. Please Wait Until The Previous One Expires Before Requesting A New One.
+AnOtpHasBeenSuccessfullySentToYourPhoneNumber: An Otp Has Been Successfully Sent To Your PhoneNumber
+OtpHasBeenSentToYourEmail: Otp Has Been Sent To Your Email
+
+TAT: Turnaround Time
+hrs: hrs
+NotSpecified: Not Specified
+SetAsDefaultAddress: Set as Default Address
+SaveAddress: Save Address
+AddAddresses: Add Addresses
+YouAreAboutToCancelOrder:  You are about to Cancel Reservation
+PaymentCreatedSuccessfully: Payment is Created Successfully !
+ViewNurseDetails: View Nurse Details
+SelectLocationFromMap: Please Select your Location from the Map
+NurseDetails: Nurse Details
+PatientsCart: Patient's Cart
+FillCartForPatient: Please fill the cart for the Patient
+FillNow: Fill Now
+ItemCompareListMsg: Item in Compare List
+ItemsCompareListMsg: Items in Compare List
+TheProvidedEmailAddressIsNotAssociatedWithAnyAccount : The provided email address is not associated with any account.
+EmailConfirmationFailedTheProvidedTokenIsEitherInvalidOrHasAlreadyBeenUsed: Email confirmation failed. The provided token is either invalid or has already been used.
+ThePhoneNumberHasAlreadyBeenConfirmed : The phone number has already been confirmed.
+TheOtoYouEnteredIsIncorrectOrHasExpired : The OTP you entered is incorrect or has expired.
+ThisEmailAddressIsAlreadyInUse : This email address is already in use.
+UserWithThisemailNotFound : User with this email not found.
+PatientNotFoundForUserWithThisEmail : Patient not found for user with this email.
+AConfirmationEmailHasBeenSentPleaseCheckYourInbox : A confirmation email has been sent. Please check your inbox.
+AnErrorOccurredWhileSendingTheEmailPleaseTryAgainLater : An error occurred while sending the email. Please try again later.
+EmailConfirmedSuccessfully : Email confirmed successfully.
+InvalidTwoFactorAuthenticationCode : Invalid two-factor authentication code.
+UserNotFound : User not found.
+LoginToCheckout: Please Login to proceed to checkout!
+UserWithThisIdNotFound : User with this id not found
+FailedToUpdateTwo-FactorAuthenticationStatus : Failed to update Two-Factor Authentication status.
+PasswordResetEmailSentSuccessfully : Password reset email sent successfully.
+CurrentPasswordIsIncorrect : Current password is incorrect.
+PasswordChangedSuccessfully : Password Changed successfully.
+InvalidOrExpiredPasswordResetTokenForThisEmail : Invalid or expired password reset token for this email.
+FailedToResetPasswordForThisEmail : Failed to reset password for this email.
+PasswordResetSuccessful : Password reset successful.
+UserDeletedSuccessfully : User deleted successfully
+UserAccountIsLockedOut : User account is locked out
+TheNewEmailIsTheSameAsTheCurrentEmail : The new email is the same as the current email.
+EmailAddressChangedSuccessfully : Email address changed successfully.
+RoleNotFound : Role not found.
+UserAccountLockedSuccessfully : User account locked successfully.
+UserAccountNnlockedSuccessfully : User account unlocked successfully.
+YourAccountHasBeenSuccessfullyLinkedWithYourGoogleAccount : Your account has been successfully linked with your Google account.
+FailedToLinkYourGoogleAccountWithYourExistingAccount : Failed to link your Google account with your existing account. Please try again later or contact support.
+YourAccountIsAlreadyLinkedWithYourGoogleAccount : Your account is already linked with your Google account.
+YourAccountIsNotLinkedWithGoogle : Your account is not linked with google.
+InvalidToken : Invalid Token
+TokenIsRequired : Token is required
+TokenIsInvalid : Token is Invalid
+ItemWithThisNameIsn'tFound : Item with this name isn't found.
+ItemWithThisIdIsn'tFound : Item with this id isn't found.
+ItemIsCreatedSuccessfully : Item is created successfully.
+ItemIsUpdatedSuccessfully : Item is updated successfully.
+ItemIsDeletedSuccessfully : Item is deleted successfully.
+SendNotificationsIsSuccessfully : Send Notifications is successfully.
+TheCouponIsUsed : The Coupon is used.
+FailedToAcceptOrder : Failed to accept reservation
+OrderWasNotFound : Order was not found
+VisitingDateAndTimeCan'tBeAssignedToTheOrder : Visiting Date and Time can't be assigned to the reservation.
+PatientUserIdWasNotFound : Patient UserId was not found
+OrderHasBeenCancelled : Reservation has been cancelled.
+OrderHasBeenUpdatedSuccessfully : Reservation Has been updated Successfully.
+OrderCan'tBeUpdated : Reservation can't be updated.
+OrderCan'tBeAssignedToNurse : Reservation can't be assigned to Nurse.
+ErrorCreating : Error creating
+CreatedSuccessfully : Created successfully
+ErrorUpdatingWithThisId : Error updating with this Id
+ErrorDeletingWithThisId : Error deleting with this Id
+ItemsAreUpdatedSuccessfully : Items are updated successfully
+FailedToChangeTheStateToNurseAccepted : Failed to change the state to 'Nurse Accepted'.
+LabUserIdWasNotFound : LabUserId was not found
+YouHaveSuccessfullyAcceptedTheOrder : You have successfully accepted the reservation.
+FailedToChangeStateToNurseOnTheWay : Failed to change state to 'Nurse On the Way'.
+YourJourneyToThePatientHasStartedSuccessfully : Your Journey to the patient has started successfully.
+FailedToChangeStateToNurseArrived : Failed to change state to 'Nurse Arrived'.
+YouHaveArrivedSuccessfully : You have arrived successfully.
+StateIsAlreadyStartSampleCollection : State is already StartSampleCollection
+NoQR-CodeWasScannedOrPIN-CodeWasEntered : No QR-Code was Scanned or PIN-Code was entered.
+InvalidQRCodewasScanned : Invalid QRCode was Scanned.
+InvalidPINWasEntered : Invalid PIN was Entered.
+FailedToChangeStateToStartSampleCollection : Failed to change state to Start Sample Collection.
+FailedToChangeStateToSampleReceivedByNurse : Failed to change state to Sample received by Nurse.
+SampleReceivedSuccessfully : Sample received successfully.
+PatientWithThisIdIsn'tFound : Patient with this id isn't found.
+ItemWithThisIdIsn'tFoundOrYouAreNotAuthorized : Item with this id isn't found Or You are NotAuthorized.
+ThereIsTestsOverlappedWithTestsOfGroups : There Is tests overlapped with tests of Groups
+PatientsAreCreatedSuccessfully : Patients are created successfully
+PatientsAreCreatedUnsuccessfully : Patients are created unsuccessfully
+AnErrorOccurredWhileMakingAnApiCall : An error occurred while making an API call.
+AnErrorOccurredWhileTryingToGetPayment : An error occurred while trying to get payment.
+ErrorProcessingWebhookData : Error processing webhook data.
+WebhookReceivedAndItemIsUpdatedSuccessfully : Webhook received and item is updated successfully.
+UserQueryIsCreatedSuccessfully : User Query is created successfully.
+FailedToChangeStateToNurseAssigned : Failed to change state to 'Nurse Assigned'.
+NurseUserIdWasNotFound : NurseUserId was not found
+PrevAssignedNurseWasNotFound : Prev Assigned Nurse was not found
+TheNurseHasBeenSuccessfullyAssigned : The nurse has been successfully assigned.
+FailedToChangeStateToSampleRecievedByLab : Failed to change state to 'Sample recieved by Lab'.
+FailedToChangeStateToResultsUploaded : Failed to change state to 'Results Uploaded'.
+ResultsUploadedSuccessfully : Results uploaded successfully.
+FailedToChangeStateToOrderCancelled : Failed to change state to 'Reservation Cancelled'.
+CanNotFindTheLab : Cannot find the lab.
+FailedToCreateOrder : Failed to create order.
+FailedToChangeStateToOrderPlacedByLab : Failed to change state to 'Reservation Placed By Lab'.
+SuccessfullySend : Successfully Send
+FailedToSendEmail : Failed to send email
+SuccessNotify : Success notify
+OrderStateSuccessfullyChangedToStartSampleCollection : Reservation State Successfully changed to Start Sample Collection
+LabsUserIdWasNotFound : Labs UserId was not found
+FailedToChangeTheStateToOrderRescheduled : Failed to change the state to Reservation Rescheduled
+OrderCanNotBeFound : Reservation cannot be found
+OrderAlreadyIsCancelled : Reservation Already is Cancelled
+ThereIsTestsOverlappedWithTestGroups : There are tests overlapped with test Groups
+TheRequestWasSuccessful : The request was successful
+AbadRequestWasReceivedByTheServer : A bad request was received by the server
+TheRequestRequiresAuthentication : The request requires authentication
+TheRequestedResourceCouldNotBeFound : The requested resource could not be found
+AnInternalServerErrorOccurred : An internal server error occurred
+AnInternalServerErrorOccurredPleaseTryAgainLater : An internal server error occurred Plaese Try Again Later
+QuickView : Quick View
+CouponWithThisCodeIsNotFound : Coupon with this code is not found.
+Two-FactorAuthenticationCode : Two-Factor Authentication Code.
+UserNotAuthenticatedOrInvalidUserID : User Not Authenticated Or Invalid User ID.
+YouAreNotAuthorizedToUnsubscribeThisUser : You are not authorized to unsubscribe this user.
+SuccessfullyUnsubscribedFromTheWishlist : Successfully unsubscribed from the wishlist.
+UnsubscriptionFailedPleaseTryAgainLater : Unsubscription failed .Please try again later.
+BadRequest : Bad Request
+Forbidden : Forbidden
+NotFound : Not Found
+InternalServerError : Internal Server Error
+UnknownError : Unknown Error
+UserIdIsNotFound : UserId is not found
+TokenIsAddedSuccessfully : Token is added successfully
+TokenAlreadyExists : Token Already Exists
+NotificationsIsSentSuccessfully : Notifications is sent successfully
+workingTimesIsn'tFound : Working times isn't found
+WhatsAppMessageSentSuccessfully : WhatsApp Message Sent Successfully.
+PaymentWithThisIdIsn'tFound : Payment With This Id Isn't Found.
+PDFSavedSuccessfully : PDF Saved Successfully
+The'ReportBase64'FieldIsMissingInTheJSON : The 'ReportBase64' Field Is Missing In The JSON
+ErrorProcessingWebHookData : Error Processing WebHook Data
+TriggeredReportSubmitPDFSuccessfully : Triggered Report Submit PDF Successfully
+ErrorTriggeringReportSubmitPDF  : Error Triggering Report Submit PDF
+SomethingWentWrongWhileRetrievingData : Something Went Wrong While Retrieving Data.
+InvalidCoupon : Invalid Coupon
+VisitDateMustBeBefore : Visit Date Must Be Before.
+
+# Actions
+WelcomeToTahlili : Welcome To Tahlili !
+LoginYouAccount : Log In Your  Account
+Action: Actions
+Add: Add
+Update: Update
+Delete: Delete
+Remove: Remove
+Navigate: Back to
+Submit: Submit
+Reset: Reset
+New: New
+Done: Done
+Close: Close
+Edit: Edit
+Select All : Select All
+Register: Register
+FileName: File Name
+Print : Print
+ItemAddedToCompareList: Item Added To Compare List
+# Common
+AdministrativeControlCenter: Administrative Control Center
+KSA: Saudi Arabia
+Country: Country
+PatientsNamePH: Patient's Name
+CountryOfOrigination: Country of origination
+English: English
+Arabic: Arabic
+SignIn: Sign In
+SignOut: Sign Out
+MyProfile: My Profile
+Tahlili: Tahlili
+TahliliApp: Tahlili App
+DateOfBirth: Date of Birth
+Gender: Gender
+Email: E-Mail
+Password: Password
+Language: Language
+Nationality: Nationality
+IdNumber: ID Number
+Phone: Phone
+Address: Address
+Addresses: Addresses
+City: City
+Longitude: Longitude
+Latitude: Latitude
+Price : Price
+ArName: Name in Arabic
+EnName: Name in English
+Home : Home
+Mobile: Mobile
+ContactEmail: Contact Email
+Hotline: Hotline
+Website: Website
+About: About
+Mission: Mission
+Vision: Vision
+Lookups: Lookups
+Dashboards: Dashboards
+Dashboard: Dashboard
+Image: Photo
+NoRecordsToDisplay: No Records to Display
+ShopByCategory : Browse by Category
+ShopNow : Reservation Now
+ShopByPartner : Browse by Lab
+ValidFor : Valid for
+Code : Code
+CopyCode : Copy Code
+RecommendedPackages : Recommended Packages
+TailoredPackages : Tailored Packages
+Welcome : Welcome
+LoginToYourAccountToWatchYourRecommendationsPackgaes : Please Login to view your Recommended Packages
+TestsGroups : Tests Groups
+History : Your Browsing History
+SkipForNow: Skip For Now
+SearchHere : Search here...
+I'mSearchingFor : I'm searching for....
+TahliliAddress : 9097 Dahbab St. Riyadh Office 305
+Do not have an account?: Do not have an account?
+ShowQuickView : Show Quick View
+Rate : Rate
+ShowDetails : Show Details
+UpdateInfo : Update Info
+EditAdress : Edit Adress
+Yes: Yes
+No: No
+UpTo : Up to
+Get : GET
+Off : OFF
+Captcha: Captcha
+ItemRemovedFromCompareList: Item Removed From Compare List
+SuccessfullyAdded: Successfully Added
+YouDoNotHavePermissionToCreateOrder: You Do Not Have Permission To Create Reservation
+NoIdNumber: No Id Number
+ItemAddedBefore: Item Added Before
+GeneticTests : Genetics
+MostRequestedPackages: Most Requested Packages
+Weeks : Weeks
+Months : Months
+Riyadh : Riyadh
+Jeddah : Jeddah
+SelectALocation : Select a Location
+OpeningSoonAndForInquiresContactUs : Opening soon and for inquires contact us.
+
+# Login
+PleaseEnterTheOneTimePasswordToVerifyYourAccount : Please enter the one time password to verify your account.
+EmailAddressOrPhoneNumber : Email Address Or Phone Number
+ForgotPassword? : Forgot Password ?
+ForgotPassword : Forgot Password
+CreateNewProfile : Create New Profile
+CreateNewAccount : Create New Account
+NameEn : Name in English
+NameAr : Name in Arabic
+E-mail : E-mail
+ConfirmPassword : Confirm Password
+IAgreeWith : By clicking the Submit button, you agree to this
+TermsofService : Terms of Service
+and : and
+ACodeHasBeenSentToYourPhone : A Code Has Been Sent To Your Phone
+Didn'tGetTheCode : Didn't Get The Code
+PleaseWaitFor : Please Wait For
+BeforeSendingAnotherCode : Before Sending Another Code.
+ResendIt : Resend It
+Validate : Validate
+AlreadyHaveAnAccount? : Already Have An Account ?
+Login : Login
+SorryYouNeedToLoginFirstToUnsubscribe: Sorry You Need To Login First To Unsubscribe
+YouHaveSuccessfullyUnsubscribed: You Have Successfully Unsubscribed
+RedirectingIn: Redirecting In
+seconds: Seconds
+UnauthorizedToUnsubscribe: Unauthorized To Unsubscribe
+
+#Register
+General Information: General Information
+Select Gender: Select Gender
+Select Nationality: Select Nationality
+Select Language: Select Language
+Sign In Credentials: Sign In Credentials
+Saudi Id Number must start with 1: Saudi Id Number must start with 1
+non-Saudi Id Number must start with 2: non-Saudi Id Number must start with 2
+Step: Step
+Previous: Previous
+Next: Next
+of: of
+Incorrect Captcha. Please try again.: Incorrect Captcha. Please try again.
+
+#Tests
+Tests: Tests
+Test : Test
+Classification : Classification
+ClassificationId : ClassificationId
+Symbol : Symbol
+Abbreviation : Abbreviation
+ReferencePrice : Reference Price
+Description : Description
+Tests2: Tests
+#Instructions : Instructions
+Storage : Storage
+Tubes : Number Tubes
+UrineContainers : Urine Containers
+StoolContainers : Stool Containers
+InstructionsAboutTools : Instructions About Tools
+SelectStorage : Select Storage
+EnterTestInstructions : Enter Test Instructions
+EnterDescriptionAboutTest : Enter Description About Test
+EnterTestSymbol : Enter Test Symbol
+EnterTestAbbreviation : Enter Test Abbreviation
+CSVFile : CSV File
+Processing : Processing
+DownloadTestsCSVTemplate : Download Tests CSV Template
+ReferenceTAT : Referecne Turnaround Time
+Markers  : Markers
+TestP : Test
+
+#Partners
+Partner: Lab
+Partners: Labs
+Instructions : Instructions
+Partners Tests : Labs Tests
+PartnerTests : Lab Tests
+PartnerTest : PartnerTest
+TestName : Test Name
+NurseFees1: Home Service 1
+NurseFees2: Home Service 2
+NurseFees3: Home Service 3
+PartnersTests: Labs Tests
+PartnerDashboard : Partner Dashboard
+Gallery : Gallery
+CertifiedPartner : Certified Lab
+ContactDetails : Contact Details
+ContactUs : Contact Us
+NoProvidedAddress : No Provided Address
+NoProvidedPhone : No Provided Phone
+Doesn'tHaveAnyLabs : Doesn't Have Any Labs
+TaxNumber : Tax Number
+ProvidedBy : Provided By
+
+#Partners Packages
+PartnerPackages : Lab Packages
+PartnersPackages : Labs Packages
+PackageName : Package Name
+PartnerPackageDetails : Lab Package Details
+PartnerPackage : Lab Package
+ProcessingTime : Processing Time
+DoctorRecommended : Doctor Recommended
+PackageHelp : Package Help
+SampleCollection : Sample Collection
+Biomarkers : Biomarkers
+ExcludeTags : Exclude Tags
+IncludeTags : Include Tags
+MarketingTags : Marketing Tags
+PackagePanels : Package Panels
+RelatedPackages : Related Packages
+TargetGender : Target Gender
+PackageType : Package Type
+ProcessingTimeInMinutes : Processing Time In Minutes
+PackageTests : Package Tests
+PackageBmis : Package Bmis
+PackageSamples : Package Samples
+PackageAges : Package Ages
+PackageCategories : Package Categories
+PackageBiomarkers : Package Biomarkers
+PackageGroups : Package Groups
+PackageDetails : Package Details
+
+#Partners Groups
+PartnersGroups : Labs Groups
+PartnerGroups : Lab Groups
+Group : Group
+GroupName : Group Name
+All: All
+PartnerGroup : Lab Group
+GroupDetails : Group Details
+GroupTests : Group Tests
+
+#FilterByCategory
+StartFrom : Start From
+FilterByCategory : Filter By Category
+
+#partnerTest
+TestDetails : Test Details
+AddToCart : Reserve Now
+AddToWishlist : Add To Wishlist
+PartnerDetails : Lab Details
+SelectedItems : Selected Items
+
+#Patients
+Patient: Patient
+BasicInfo: Basic Information
+AdditionalInfo: Additional Information
+FemaleAdditionalInfo: Female Additional Information
+LifeStyle: Life Style
+GoogleMapsURL: Google Maps URL
+PatientNumber: ID Number
+MobileNumber: Mobile Number
+PhoneNumber: Phone Number
+IDorPassportNumber: ID/Passport Number
+Height: Height (cm)
+Weight: Weight (kg)
+Ethnicity: Ethnicity
+Pregnancy: Is Pregnant?
+PregnancyDueDate: Due Date
+Breastfeeding: Breastfeeding
+Postpartum: Postpartum
+Period: Menstrual Cycle
+BloodType: Blood Type
+Conditions: Medical Conditions
+AddConditionsforFamilyMembers: Add Conditions for Family Members
+Allergies: Allergies
+Medications: Medications
+Supplements: Dietary Supplements
+Therapies: Therapies
+Surgeries: Surgeries
+FamilyHistory: Family Medical History
+FamilyMembers: Family Members
+DailyLifeStress: Daily Life Stress
+RecentTravels: Recent Travels
+Diets: Dietary Habits
+PhysicalActivity: Physical Activity
+SmokingLevels: Smoking Level
+AlcoholLevels: Alcohol Level
+DurationOfSleep: Duration of Sleep
+HydrationLevel: Hydration Level
+CaffeinatedBeverages: Caffeinated Beverages
+EnergyDrinks: Energy Drinks
+PatientInfo : Patient Info
+Map: Map
+OrderTo: Reservation To
+SelectPatient: Select Patient
+UpdateProfile: Update Profile
+Select Relation: Select Relation
+Relationship: Relationship
+#wishlist
+Wishlist : Wishlist
+NoItemsInTheWishList : No Items In The WishList
+
+#Labs
+Lab: Branch
+Labs: Branches
+LabId: Branch ID
+Actions: Actions
+OpeningHours: Opening Hours
+GoogleMapsLink: Google Maps Link
+District: District
+items : items
+
+#confirm email
+Email Confirmed: Email Confirmed
+
+#Nurses
+Nurse: Nurse
+Nurses: Nurses
+LicenseNumber: License Number
+Shift: Shift
+CertificateTitle: Certificate Title
+CertificateURL: Certificate URL
+WorkingTimes: Working Times
+StartingTime: Starting Time
+EndingTime: Ending Time
+Day: Day
+
+#auditing
+IP : IP Address
+Login Date: Login Date
+Id : Id
+User Id : User Id
+Role : Role
+Type : Type
+Table Name : Table Name
+Date : Date
+Affected Columns : Affected Columns
+New Value : New Value
+Old Value : Old Value
+Back : Back
+No log entries found. : No log entries found.
+Auditing: Auditing
+Login Logs: Login Logs
+Audit Details: Audit Details
+Bookmarks : Bookmarks
+login Log : login Log
+Current User : Current User
+#packages
+Package: Package
+Packages: Packages
+ShowMore : Show More
+PackageExcludeTags : Package Exclude Tags
+PackageIncludeTags : Package Include Tags
+PackageMarketingTags : Package Marketing Tags
+NumberOfOffers : Number Of Offers
+
+#orders
+Orders: Reservations
+Order: Reservation
+OrderId: Reservation Id
+VAT: VAT
+PriceWithVAT: Price with VAT
+AtHome: At Home ?
+FeedbackValue: Feedback Value
+FeedbackNotes: Feedback Notes
+Groups: Groups
+OrderItems: Reservation Items
+Mrs: Mr/s
+OrderingDate: Reservation Date
+OrderState: Reservation State
+PreferedVisitingDateAndTime: Prefered Visiting Date and Time
+PreferedVisitingDate: Prefered Visiting Date
+PreferedVisitingTime: Prefered Visiting Time
+ActualVisitngDateAndTime: Actual Visiting Date and Time
+SAR: SAR
+From : From
+To : To
+Prices : Prices
+TotalPrice: Total Price
+AssignedNurse: Assigned Nurse
+Mr/s: Mr/s
+TestsInstructions: Tests Instructions
+PrintQRCode: Print QR Code
+GeneralInfo: General Info
+Feedbacks: Feedbacks
+OrderStateAndActions: Reservation's State and Actions
+ViewInstructions: View Instructions
+PrintQrCode: Print QR Code
+Show: Show
+QRCode: QR CODE
+Rating: Rating
+Feedback: Feedback
+Service: Service
+AcceptOrder: Accept Reservation
+AssignNurse: Assign Nurse
+StartJourney: Start Journey
+NurseOnTheWay: Nurse on the Way
+NurseArrived: Nurse Arrived
+View: View
+onThe: on the
+ArrivedToPatient: Arrived To Patient
+UploadResults: UploadResults
+NurseAgreement: I have read and agree all the tests instructions.
+NoInstuctionsToShow: There is no Instructions to show
+CantViewFeedback: Sorry Can't view Feedback Right now
+Summary : Summary
+RatePatient: Rate Patient
+RateServiceAndNurse: Rate Service and Nurse
+ShowGroupsTests: Show Included Tests
+ShowPackagesTests: Show Packages Tests
+CantAddFeedBackDearPatient: Sorry, Cant Rate Nurse and Service Right now
+CantAddFeedBackDearNurse: Sorry, Cant Rate Patient Right now
+SampleRecieved: Sample Recieved
+NoNurseWarning: Please note that there are no available nurses to assign order.
+FinishOrder : Finish Reservation
+OrderSuccess : Reservation Success
+PaymentIsSuccessfullyAndYourOrderIsOnTheWay : Payment Is Successfully And Your Reservation Is On The Way.
+TransactionID : Transaction ID
+ViewDetails : View Details
+OrderFailed : Reservation Failed
+PaymentIsFailedAndYourOrderIsCancelled : Payment Is Failed And Your Reservation Is Cancelled
+BackToCart : Back to Cart
+OrderDetails : Reservation Details
+OrderSummary : Reservation Summary
+NoInstructions : No Specifiec Instructions
+PINCODE : PIN CODE
+CancelOrRescheduleOrder: Cancel or Reschedule Reservation
+QRCodeAndPINCode : Reservation Identification Codes
+PleaseInformTheNurseToEitherScanTheQRCodeOrToEnterThe6-DigitsPINCodeOnHis/HerArrival : Upon nurse arrival, the nurse will either scan the provided QR code or enter the 6-digit PIN code for check-in.
+Method : Method
+PaymentDetails : Payment Details
+PriceDetails : Price Details
+PayNow : Pay Now
+RateNurseAndService : Rate Nurse And Service
+ActualDateAndTime : Visiting Date
+ChoosenDateAndTime : Choosen Date
+OrderFeedback : Reservation Feedback
+Scan: Scan
+BackToOrders: Back To Reservations
+CantViewFeedBackOnPatient: Sorry, Can't View Feedbacks on Patient Right Now
+CantViewFeedBackOnNurse: Sorry, Can't View Feedbacks on Nurse Right Now
+CantViewFeedBackOnService: Sorry, Can't View Feedbacks on Service Right Now
+YouCan'tAddFeedbackAboutTheNurseBeforeSampleIsReceived : You Can't Add Feedbacks About The Nurse Before Sample Is Received.
+YouCan'tAddFeedbacksAboutTheServiceBeforeTheResultsUploaded : You Can't Add Feedbacks About The Service Before The Results Uploaded.
+PaymentType : Payment Type
+Sorry! you need to Login First in order to see your orders: Sorry! you need to Login First in order to see your orders
+FeedbackAboutNurse : Feedback About Nurse
+FeedbackAboutService : Feedback About Service
+AddFeedback : Add Feedback
+Receipt : Receipt
+
+#Feedbacks
+FBNurseAvg: Nurses Ratings
+FBServiceAvg: Service Rating
+FBAvg: Rating
+
+# Cart
+Cart: Cart
+CartItem: CartItem
+Loading : Loading
+ItemsFrom : Items From
+YouSave : You Save
+NoItemsInTheCart : No Items In The Cart
+BackToHomeScreen : Back To Home Screen
+CartTotal : Cart Total
+Subtotal : Subtotal
+CouponDiscount : Coupon Discount
+NurseFees : Home Service
+Total : Total
+PrefferedVisitingDateTime : Preffered Visiting Date and Time
+PreferredDate : Preferred Date
+PrescriptionsAndMedications : Prescriptions and Medications
+UploadPrescriptions : Upload Prescriptions
+SelectMedications : Select Medications
+SelectAddress : Select Address
+SelectLab : Select Branch
+Order'sSpecifications : Reservation's Specifications
+NurseGender : Nurse Gender
+NurseType : Nurse Type
+PaymentAndCheckout : Payment and Checkout
+CreateOrder : Create Reservation
+CreditCard : Credit Card
+STCPay : STC Pay
+ApplePay : Apple Pay
+SelectPaymentType : Select Payment Type*
+CurrentPrefferedDateAndTimeWas : Current Preffered Date And Time Was
+NoUploadedFiles : No Uploaded Files
+File : File
+DownloadFile : Download File
+DeleteFile : Delete File
+CantDetectQRCode : Can't Detect QR Code
+Body : Body
+OptionalToken : Optional Token
+FirebaseCloudMessagingToken : Firebase Cloud Messaging Token
+SendNotification : Send Notification
+PatientIdNumber : Patient Id Number
+Enter Coupon Code Here: Enter Coupon Code Here
+Working Times For: Working Times For
+At Home: At Home
+On Site: On Site
+Preferred Date : Preferred Date
+Cash/Credit Card on visit: Cash/Credit Card on visit
+Credit Card: Credit Card
+Add New Address: Add New Address
+Emergency: Emergency
+Male: Male
+Female: Female
+Pediatric: Pediatric
+Please enter a valid date and time within: Please enter a valid date and time within
+working shifts for: working shifts for
+Add Feedback: Add Feedback
+Reschedule Order: Reschedule Reservation
+Bad: Bad
+Not Good: Not Good
+Sufficient: Sufficient
+Good: Good
+Awesome!: Awesome!
+Rate our App!: Rate our App!
+InvalidTimeRange: Invalid Time Range
+
+
+#Packages
+
+#MainMenu
+LoginLogs: Login Logs
+Search: Search
+
+#OrderTracking
+OrderTracking: Reservation Tracking
+OrderPlaced: Reservation Placed
+RecievedByLab: Recieved by Lab
+LapAccepted: Lap Accepted
+NurseAssigned: Nurse Assigned
+NurseAccepted: Nurse Accepted
+NurseonTheWay: Nurse on the way
+#NurseArrived: Nurse Arrived
+TestRecivedByNurse: Test Recived by Nurse
+TestRecivedByLab: Test Recived by Lab
+PendingResults: Pending Results
+ResultsUploaded: Results Uploaded
+OrderIntiated: Reservation Intiated
+LastUpdateAt : Last Update At
+PreviousPrefferedDateAndTimeWas : Previous Preferred Date And Time Was
+
+#Home
+Products: Products
+Join our newsletter and get...: Join our newsletter and get...
+Enter Your Email: Enter Your Email
+
+#Roles
+Admin: Admin
+#Partner: Partner
+#Lab: Lab
+#Nurse: Nurse
+#Patient: Patient
+CustomerExperience : Call Center
+
+#Profile
+Profile: Profile
+ProfileCompleation: Profile Compleation
+FullName: Full English Name
+FullArabicName: Full Arabic Name
+Mode: Mode
+Light: Light
+Dark: Dark
+System: System
+Profile Details: Profile Details
+Details Completed: Details Completed
+Profile Photo Exist: Profile Photo Exist
+Two-FactorAuth: Two-Factor Authentication
+We need your attention: We need your attention!
+Your profile isn't completed: Your profile isn't completed. To complete your profile, please check the next sections
+You profile is completed: You profile is completed
+Congratulation: Congratulation
+Sign-in Method: Sign-in Method
+Reset Password: Reset Password
+Current Password: Current Password
+Image Preview: Image Preview
+PasswordValidationTip: Password must contain at least 8 characters, one uppercase letter, one lowercase letter, one digit, and one special character.
+Update Password: Update Password
+Secure Your Account: Secure Your Account
+Two-factorPreTip: Two-factor authentication adds an extra layer of security to your account. To login, in addition you'll need to provide a 6 digit code
+Two-factorPostTip: To login you'll need to provide a 6 digit code
+Enable: Enable
+Your Account Is Secured: Your Account Is Secured
+Disable: Disable
+Authentication Method: Authentication Method
+Auth1stModalTip: In addition to your username and password, you’ll have to enter a code (delivered via app) to log into your account.
+Use the authenticator app: Use the authenticator app
+Google Authenticator: Google Authenticator
+Auth2ndModalTip: scan the QR code. It will generate a 6 digit code for you.
+AuthManualCodeTip: If you having trouble using the QR code, select manual entry on your app, and enter your username and the code
+Authenticator App: Authenticator App
+GetCodesFromGoogleAuth: Get codes from Google Authenticator.
+Continue: Continue
+Confirm Email: Confirm Email
+Last Update At: Last Update
+Current Order State: Current Reservation State
+Order Tracking: Reservation Tracking
+Order Placed: Reservation Placed
+Order Cancelled: Reservation Cancelled
+Order Placed By Lab: Reservation Placed By Lab
+Recieved by Lab: Recieved by Lab
+Lab Notified: Lab Notified
+Nurse Assigned: Nurse Assigned
+Nurse Accepted: Nurse Accepted
+Nurse on the way: Nurse on the way
+Nurse Arrived: Nurse Arrived
+Sample Received by Nurse: Sample Received by Nurse
+Sample Received by Lab: Sample Received by Lab
+Pending Results: Pending Results
+Results Uploaded: Results Uploaded
+Order Initiated: Reservation Intiated
+Link your account with Google: Link your account with Google
+Start Sample Collection: Start Sample Collection
+AddProfile : Add Profile
+Two-FactorAuthentication : Two-Factor Authentication
+MultiProfiles : Multi Profiles
+Profiles : Profiles
+ChooseYourProfile : Choose Your Profile
+AddANewProfile : Add a New Profile
+FromYourDashboardYouHaveTheAbilityToViewASnapshotOfYourRecentAccountActivity : From your Dashboard you have the ability to view a snapshot of your recent account activity.
+TotalOrder : Total Reservation
+TotalPendingOrder : Total Pending Reservation
+TotalWishlist : Total Wishlist
+BasicInformation : Basic Information
+MedicalConditions : Medical Conditions
+DietarySupplements : Dietary Supplements
+FamilyMedicalHistory : Family Medical History
+FemaleAdditionalInformation : Female Additional Information
+IsPregnant : Is Pregnant
+MensturalCycle : Menstural Cycle
+DietaryHabits : Dietary Habits
+SmokingLevel : Smoking Level
+AlcoholLevel : Alcohol Level
+MyAddressBook : My Address Book
+AddNewAddress : Add New Address
+DefaultAddress : Default Address
+GoogleMapsUrl : Google Maps Url
+UploadComplaint : Upload Complaint
+ProfileName : Profile Name
+LicensedFor : Licensed for
+Years : years
+ProfileCompletion : Profile Completion
+ProfileAbout : Profile About
+Birthday : Birthday
+LoginDetails : Login Details
+PasswordsDoesn'tMatch: Passwords Doesn't Match
+#rateApp
+RateApp : Rate App
+SubmitFeedback : Submit Feedback
+AddYourFeedback : Add Your Feedback
+
+
+#Notifications
+Notifications: Notifications
+Title: Title
+SubTitle: Sub Title
+Seen: Seen
+Unseen: Unseen
+Link: Link
+
+
+#ManageUsers
+ManageUsers: Manage Users
+Select Role: Select Role
+Welcome to the User Management Dashboard: Welcome to the User Management Dashboard
+Here, you can view manage user accounts. Choose a role from the dropdown above to get started.: Here, you can view manage user accounts. Choose a role from the dropdown above to get started.
+New Email: New Email
+# Submit: Submit
+Cancel: Cancel
+NewPassword: New Password
+Admins : Admins
+# Partners: Partners
+# Labs: Labs
+# Patients: Patients
+# Nurses: Nurses
+
+
+#Login layout
+Welcome to Tahlili Portal: Welcome to Tahlili Portal
+AND ON-SITE FLOW MANAGEMENT: AND ON-SITE FLOW MANAGEMENT
+AT-HOME PRIMARY CARE EXPIERIENCE: AT-HOME PRIMARY CARE EXPIERIENCE
+Opps! Unhandled Exception: Opps! Unhandled Exception
+
+#Login page
+Sign In to Tahlili: Sign In to Tahlili
+Two-Factor Verification: Two-Factor Verification
+Enter the verification code we sent: Enter the verification code we sent
+# Email: Email
+# Password: Password
+Forgot Password ?: Forgot Password ?
+Type your 6 digit security code: Type your 6 digit security code
+ConfirmEmail : Confirm Email
+EmailConfirmed : Email Confirmed
+EmailAddress : Email Address
+IsLoading : Is Loading
+Don'tHaveAnAccount? : Don't have an account ?
+SignUp : Sign Up
+Support : Support
+ResetPassword : Reset Password
+EnterYourNewPassword : Enter your new password
+
+# Back: Back
+
+#AccessDenied Page
+PleaseContactUs : please contact us.
+IfYouThinkThatYouCanAccessThisPage: If you think that you can access this page
+GotoHomePage: Go to Home Page
+YouAreUnauthorizedToAccessThisPage : You Are Unauthorized To Access This Page
+Unauthorized : Unauthorized
+
+#Error-404 Page
+Oops!: Oops!
+We can't find that page.: We can't find that page.
+Return Home: Return Home
+
+#Error-500 Page
+System Error: System Error
+Something went wrong! Please try again later.: Something went wrong! Please try again later.
+Enter your email to reset your password.: Enter your email to reset your password.
+
+
+#Login With Google page
+Continue with Google: Continue with Google
+Login with Google: Login with Google
+#Password is changed
+Password is changed: Password is changed
+Password Successfully Changed: Password Successfully Changed
+Your password has been updated successfully. You're all set!: Your password has been updated successfully. You're all set!
+Sign in: Sign in
+
+#Prescriptions
+Prescriptions : Prescriptions
+PatientName : Patient Name
+Prescription : Prescription
+Ischecked : Checked
+Iscontacted : Contacted
+IsHandled : Handled
+PatientId : PatientId
+CheckFields : Check Fields
+PrescriptionForm : Prescription Form
+Files : Files
+UploadPrescription : Upload Prescription
+SorryYouNeedToLoginFirstInorderToUploadPrescriptions : Sorry, You Need To Login First In Reservation To Upload Prescriptions
+
+
+
+#Complaints
+Complaints : Complaints
+Complaint : Complaint
+CreationTime : Creation Time
+IsChecked : Checked
+IsContacted : Contacted
+IsClosed :  Closed
+HandlingTime : Handling Time
+UploadedFiles : Uploaded Files
+Status : Status
+GetInTouch : Get In Touch
+RiyadhOffice : Riyadh Office
+9097DahbabSt.RiyadhOffice305 : 9097 Dahbab St. Riyadh Office 305
+UploadComplaints : Upload Complaints
+AttachFiles : Attach Files
+ComplaintsType : Complaints Type
+ComplaintDetails : Complaint Details
+
+#Reset Password
+I Agree &: I Agree &
+Terms and conditions: Terms and conditions
+ConfirmNewPassword: Confirm New Password
+Use 8 or more characters with a mix of letters, numbers & symbols.: Use 8 or more characters with a mix of letters, numbers & symbols.
+# New Password: New Password
+Sign in here: Sign in here
+Setup New Password: Setup New Password
+New Password: New Password
+Change Email: Change Email
+Change Password: Change Password
+Confirm New Password: Confirm New Password
+
+#Daynamic Filter
+# Action: Action
+Field: Field
+Operator: Operator
+Value: Value
+And: And
+Or: Or
+Contains: Contains
+Starts With: Starts With
+Ends With: Ends With
+Does Not Contain: Does Not Contain
+Does Not Start With: Does Not Start With
+Does Not End With: Does Not End With
+Apply: Apply
+Select Query: Select Query
+Save: Save
+SearchProducts : Search Products
+Filters : Filters
+ClearAll : Clear All
+SelectType : Select Type
+SelectCategory : Select Category
+SelectPartner : Select Lab
+Certificates : Certificates
+SelectCertificate : Select Certificate
+Filter : Filter
+FilterMenu : Filter Menu
+SortBy : Sort By
+TotalItems : Total Items
+NoItemsFound : No Items Found
+
+
+#Coupons
+Coupons : Coupons
+Coupon : Coupon
+StartDate : Start Date
+EndDate : End Date
+NotificationTypes : Notifications Types
+Classifications : Classifications
+Categories : Categories
+NoOfUses : Number Of Uses
+MaxDiscount : Max Discount
+MaxUse : Max Use
+Percentage : Percentage
+WebsiteURL : Website URL
+VideoURL : Video URL
+NotificationMessage : Notification Message
+SendNotifications : Send Notifications
+ProvidersFields : Providers Fields
+SelectClassifications : Select Classifications
+SelectCategories : Select Categories
+SelectPartners : Select Labs
+SelectPackages : Select Packages
+SelectGroups : Select Groups
+SelectTests : Select Tests
+SelectNotificationTypes : Select NotificationTypes
+Count : Count
+WeHaveAddedNewCouponsYouCanSeeIt : Ex :We have added new coupons you can see it
+CanYouAddDescriptionAboutYourCoupon : Ex:Can you add description about your coupon.
+CouponDetails : Coupon Details
+HurryUp!CouponEndsIn : Hurry Up! Coupon Ends In
+Days : Days
+Min : Min
+Sec : Sec
+GuaranteedSafeCheckout : Guaranteed Safe Checkout
+TopTests : Top Tests
+Video : Video
+General : General
+ApplyCopoun : Apply Copoun
+
+#Copoun
+Hours: Hours
+# compare
+Compare : Compare
+Product : Product
+Images : Images
+ProductType : Product Type
+NumberOfTests : Number Of Tests
+IncludedTests : Included Tests
+
+# footer
+AllTypesOfTests : All types of Tests
+FreeDeliveryForOrdersOver : Free Delivery For Reservations Over
+MegaDiscounts : Mega Discounts
+VarietyOfPricesFromOurPartners : Variety of prices from our Partners
+AT-HOMEPRIMARYCAREEXPIERIENCEANDON-SITEFLOWMANAGEMENT: At-home primary care experience and on-site flow management
+UsefulLinks : Useful Links
+AboutUs : About Us
+HelpCenter : Help Center
+YourOrders : Your Reservations
+UserDashboard : Your Dashboard
+YourWishlist : Your Wishlist
+FAQ : FAQ
+DownloadApp : Download App
+AllRightsReserved : All rights reserved
+StayConnected : Stay Connected
+MyWish : My Wish
+UnreadMessages : unread messages
+ViewWishList : View Wishlist
+ViewCart : View Cart
+Hello : Hello
+MyDashboard : My Dashboard
+ChangeProfile : Change Profile
+ChangePassword: Change Password
+LogOut : Log out
+AllCategories : All Categories
+Advanced : Advanced
+Essential : Essential
+Menu : Menu
+DealToday : Weekly Deals
+DealOfWeek : Deal Of Week
+RecommendedDealsForYou : Recommended Deals For You.
+Category : Category
+Subscribe : Subscribe
+DiscountForYourFirstOrder : Discount For Your First Reservation
+Install : Install
+
+# contactUs
+FirstName : First Name
+LastName : Last Name
+Message : Message
+SendMessage : Send Message
+PrefferedVisitingDateAndTime: Preffered Visiting Date And Time
+PreferredVisitingDateAndTime: Preferred Visiting Date And Time
+Sorry! you need to Login First in order to rate the app: Sorry! you need to Login First in order to rate the app
+ShowPackagesDetails: Show Packages Details
+TrackOrder: Track Reservation
+CouponeDiscount: Coupone Discount
+ItemCompare: Items Compare
+UpdateInformation: Update Information
+AccountCreated: Account is Created Successfully
+UpdateAddresses: Update Addresses
+Order Rescheduled: Reservation Rescheduled
+Riyadh Office: Riyadh Office
+9097 Dahbab St. Riyadh Office 305: 9097 Dahbab St. Riyadh Office 305
+Enter First Name: Enter First Name
+Enter Last Name: Enter Last Name
+Enter Email Address: Enter Email Address
+Enter Your Phone Number: Enter Your Phone Number
+URL: URL
+#Blogs
+Blogs : Blogs
+Author : Author
+Minutes : Minutes of reading
+ReadCount : Readers
+Blog : Blog
+AuthorName : Author Name
+Content : Content
+TypeYourContent : Type Your Content
+BlogCategoryId : Blog CategoryId
+LatestTestimonals: Latest Testimonals
+WhatPeopleSay: What People Say
+ReadMore : Read More
+BlogDetails : Blog Details
+RescheduleOrder: Reschedule Reservation
+Tags : Tags
+CreateDate : Create Date
+CategoryName : Category Name
+
+LoginNow: Login Now !
+NewPatient?: are you a new Patient?
+StartHere: Start Here
+ViewPartnersDetails : Show Lab's Details
+ViewPartnersItems : Show Lab's Tests and Products
+ContactWithEmail : Contact with Email
+ContactWithHotline : Contact with Hotline
+Certified: Certified
+
+MakeSureYouHaveEnteredYourWeightAndHeight : make sure you have entered your weight and height
+WatchYourRecommendedPackages : Watch your Recommended Packages
+WatchYourTailoredPackages : Watch your Tailored Packages
+TypeError: TypeError
+
+#Assessments
+Assessment :  Medical Assessment
+Assessments : Medical Assessments
+Reply : Reply
+AssessmentDetails : Assessment Details
+OrderAtHome: Reservation At Home
+OrderInLab: Reservation In Lab
+RateService: Rate Service
+Order Placed by Lab: Reservation Placed by lab
+SampleResults: Sample Results
+NoTimeSlotsIsAvailableAtThisDateFor: No Time Slots are Available at This Date for
+NoData : No Data Available
+
+#blog
+All Categories: All Categories
+Endocrinology: Endocrinology
+General Medicine Diseases: General Medicine Diseases
+Infectious diseases: Infectious diseases
+Medical news: Medical news
+Pregnancy and prenatal screening: Pregnancy and prenatal screening
+Gynecology: Gynecology
+Neurology: Neurology
+genetics: genetics
+Cardiology: Cardiology
+Allergology: Allergology
+Children: Children
+Hematology: Hematology
+
+#filterPage
+Nearest Lab: Nearest Lab
+A - Z Order: A - Z Order
+Z - A Order: Z - A Order
+Low - High Price: Low - High Price
+High - Low Price: High - Low Price
+This item is already added from another partner: This item is already added from another Lab
+Remove from WishList: Remove from WishList
+Add to WishList: Add to WishList
+Quick View: Quick View
+The nearest lab is approximately: The nearest lab is approximately
+kilometers away: kilometers away
+This Item is already added from another partner: This Item is already added from another Lab
+Add to cart: Add to cart
+Remove from cart: Remove from cart
+Turnaround Time: Turnaround Time
+H: H
+Search by name: Search by name
+1 Star: 1 Star
+2 Star: 2 Star
+3 Star: 3 Star
+4 Star: 4 Star
+5 Star: 5 Star
+UniqueItems: Unique Items
+
+#index
+YourUpcomingAppointments: Your Upcoming Appointments
+YourPreviousAppointments: Your Previous Appointments
+At: At
+With: With
+AtLab: At Lab
+AtHome2: At Home
+
+
+WaysToReceiveTheService: Ways to receive the service
+ManageMyProfiles: Manage My Profiles
+TotalPackages: Total Packages
+CouponCopiedSuccessfully: Coupon Copied Successfully
+
+KM: KM
+Away: Away
+
+
+#Services
+HealthInsurance: Health Insurance
+LaboratoryServices: Laboratory Services
+TelemedicineConsultation: Telemedicine Consultation
+
+#WalletCredit
+WalletCredit : Wallet Credit
+WalletTracking : Wallet Tracking
+DateTime : DateTime
+Amount : Amount
+Notes : Notes
+
+ThePrescriptionHasBeenHandled: The prescription has been handled
+
+Me: Me
+Mother: Mother
+Father: Father
+Wife: Wife
+Husband: Husband
+Brother: Brother
+Son: Son
+Sister: Sister
+Daughter: Daughter
+GrandFather: GrandFather
+GrandMother: GrandMother
+GrandSon: Grand	Son
+GrandDaughter: GrandDaughter
+Uncle: Uncle
+Aunt: Aunt
+CostumerService: Costumer Service
+JoinUs: Join Us
+ChooseYourHomeLocation : Choose your home location
+EnterYourAddressAndWeWillSpecifyTheOfferForYourArea : Enter Your address and we will specify the offer for your area.
+
+We may encounter difficulties due to the early timing: We may encounter difficulties due to the early timing
+Rest assured We'll contact you if this time is not available. We'll also reach out to reschedule if needed.: Rest assured We'll contact you if this time is not available. We'll also reach out to reschedule if needed.

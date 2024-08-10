@@ -1,0 +1,1249 @@
+YourExaminationThroughYourInsurance: تحليلك  بتأمينك
+Al Rajhi Takaful: تكافل الراجحي
+Tawuniya: التعاونية
+Malath: ملاذ
+Bupa: بوبا
+TermsAndConditions: الشروط و الاحكام
+#APIS RESPONSE
+Zone: المنطقه
+Zones: المناطق
+TheProvidedPhoneNumberIsNotAssociatedWithAnyAccount: الرقم الهاتفي المقدم غير مرتبط بأي حساب.
+AValidOTPIsStillActive.PleaseWaitUntilThePreviousOneExpiresBeforeRequestingANewOne.: رمز صالح لا يزال نشطًا. يرجى الانتظار حتى ينتهي الرمز السابق قبل طلب واحد جديد.
+AnOtpHasBeenSuccessfullySentToYourPhoneNumber: تم إرسال رمز بنجاح إلى رقم هاتفك.
+OtpHasBeenSentToYourEmail: تم إرسال رمز إلى بريدك الإلكتروني
+InvalidEmailOrPassword : البريد الإلكتروني أو كلمة السر خاطئة.
+ThePhoneNumberHasBeenSuccessfullyVerified : تم التحقق من رقم الهاتف بنجاح.
+TwoFactorAuthenticationCodeRequired : مطلوب رمز المصادقة الثنائية.
+AccountLockedPleaseTryAgainLater : الحساب مغلق. الرجاء معاودة المحاولة في وقت لاحق.
+YouCannotRegisterAsAdmin : لا يمكنك التسجيل كمسؤول
+Name: الأسم
+BlockedFromCashMsg: يرجى العلم انك موقوف حاليا من الدفع نقدي او ببطاقة الاتمان عند زيارة الممرضة
+Patient Not Found: المريض غير متاح
+AUserWithTheProvidedIDNumberAlreadyExistsInOurRecords.: يوجد مستخدم برقم الهوية المقدم بالفعل في سجلاتنا.
+HomeAddress: المنزل
+Street: شارع 123, مدينة ا ب ت
+SelectCity: اختار المدينة
+SelectZone: اختار المنطقة
+SelectDistrict: اختار الحي
+61: "61"
+SearchForPlace: ابحث هنا عن موقعك
+OrderIsCancelledSuccessfully: تم حذف الحجز بنجاح
+OrderIsRescheduledSuccessfully: تم تغيير موعد الحجز بنجاح
+PrivacyPolicy: سياسة الخصوصية
+PaymentCreatedSuccessfully: تم قبول عملية الدفع بنجاح
+NurseDetails: تفاصيل الممرض/الممرضة
+RescheduleNow: حدث الان
+ItemCompareListMsg: عنصر للمقارنة
+ItemsCompareListMsg: عناصر للمقارنة
+ViewNurseDetails: عرض بيتات الممرض/ة
+LoginToCheckout: سجل الان لاستكمال عملية الشراء
+SelectLocationFromMap: حدد موقعك من الخريطة
+AreYouSure: هل انت متأكد ؟
+CancelOrder: الغاء الحجز
+Age: السن
+CurrentOrderState: حالة الحجز
+Details: تفاصيل
+SetAsDefaultAddress: تعيين كالعنوان الاساسي
+SaveAddress: حفظ العنوان
+AddAddresses: اضافة عنوان
+TAT: الفترة الزمنية
+hrs: ساعة
+NotSpecified: غير محدد
+AnInternalServerErrorOccurredPleaseTryAgainLater : حدث خطأ داخلي في الخادم. يرجى المحاولة مرة أخرى لاحقًا.
+ShowReceipt: عرض الفاتورة
+PatientsCart: سلة المريض
+FillCartForPatient: من فضلك قم بملأ سلة المريض
+FillNow: تعبأة السلة الان
+YouAreAboutToCancelOrder: انت على وشك القيام بحذف الحجز رقم
+TheProvidedEmailAddressIsNotAssociatedWithAnyAccount : عنوان البريد الإلكتروني المقدم غير مرتبط بأي حساب.
+EmailConfirmationFailedTheProvidedTokenIsEitherInvalidOrHasAlreadyBeenUsed : فشل تأكيد البريد الإلكتروني. الرمز المميز المقدم إما غير صالح أو تم استخدامه بالفعل.
+ThePhoneNumberHasAlreadyBeenConfirmed : لقد تم بالفعل تأكيد رقم الهاتف.
+TheOtoYouEnteredIsIncorrectOrHasExpired : كلمة المرور لمرة واحدة التي أدخلتها غير صحيحة أو انتهت صلاحيتها.
+ThisEmailAddressIsAlreadyInUse : هذا البريد الإلكتروني قيد الاستخدام بالفعل.
+UserWithThisemailNotFound : لم يتم العثور على المستخدم الذي لديه هذا البريد الإلكتروني.
+PatientNotFoundForUserWithThisEmail : لم يتم العثور على مريض للمستخدم الذي لديه هذا البريد الإلكتروني.
+AConfirmationEmailHasBeenSentPleaseCheckYourInbox : تم إرسال رسالة تأكيد بالبريد الإلكتروني. يرجى التحقق من البريد الوارد الخاص بك.
+AnErrorOccurredWhileSendingTheEmailPleaseTryAgainLater : حدث خطأ أثناء إرسال البريد الإلكتروني. الرجاء معاودة المحاولة في وقت لاحق.
+EmailConfirmedSuccessfully : تم تأكيد البريد الإلكتروني بنجاح.
+InvalidTwoFactorAuthenticationCode : رمز المصادقة الثنائية غير صالح.
+UserNotFound : لم يتم العثور على المستخدم.
+UserWithThisIdNotFound : المستخدم مع هذا المعرف غير موجود
+FailedToUpdateTwo-FactorAuthenticationStatus : فشل في تحديث حالة المصادقة الثنائية.
+PasswordResetEmailSentSuccessfully : تم إرسال البريد الإلكتروني لإعادة تعيين كلمة المرور بنجاح.
+CurrentPasswordIsIncorrect : كلمة المرور الحالية غير صحيحة.
+PasswordChangedSuccessfully : تم تغيير الرقم السري بنجاح.
+InvalidOrExpiredPasswordResetTokenForThisEmail : رمز إعادة تعيين كلمة المرور غير صالح أو منتهي الصلاحية لهذا البريد الإلكتروني.
+FailedToResetPasswordForThisEmail : فشل في إعادة تعيين كلمة المرور لهذا البريد الإلكتروني.
+PasswordResetSuccessful : تمت إعادة تعيين كلمة المرور بنجاح.
+UserDeletedSuccessfully : تم حذف المستخدم بنجاح.
+UserAccountIsLockedOut : تم تأمين حساب المستخدم.
+TheNewEmailIsTheSameAsTheCurrentEmail : البريد الإلكتروني الجديد هو نفس البريد الإلكتروني الحالي.
+EmailAddressChangedSuccessfully : تم تغيير عنوان البريد الإلكتروني بنجاح.
+RoleNotFound : لم يتم العثور على الدور.
+UserAccountLockedSuccessfully : تم قفل حساب المستخدم بنجاح.
+UserAccountNnlockedSuccessfully : تم فتح حساب المستخدم بنجاح.
+YourAccountHasBeenSuccessfullyLinkedWithYourGoogleAccount : لقد تم ربط حسابك بنجاح بحسابك في جوجل.
+FailedToLinkYourGoogleAccountWithYourExistingAccount : فشل ربط حسابك في جوجل بحسابك الحالي. يرجى المحاولة مرة أخرى لاحقًا أو الاتصال بالدعم.
+YourAccountIsAlreadyLinkedWithYourGoogleAccount : حسابك مرتبط بالفعل بحسابك في جوجل.
+YourAccountIsNotLinkedWithGoogle : حسابك غير مرتبط بجوجل.
+InvalidToken : رمز غير صالح
+TokenIsRequired : الرمز المميز مطلوب
+TokenIsInvalid : الرمز غير صالح
+ItemWithThisNameIsn'tFound : لم يتم العثور على العنصر بهذا الاسم.
+ItemWithThisIdIsn'tFound : لم يتم العثور على العنصر بهذا المعرف.
+ItemIsCreatedSuccessfully : تم إنشاء العنصر بنجاح.
+ItemIsUpdatedSuccessfully : تم تحديث العنصر بنجاح.
+ItemIsDeletedSuccessfully : تم حذف العنصر بنجاح
+SendNotificationsIsSuccessfully : تم إرسال الإشعارات بنجاح.
+TheCouponIsUsed : الكوبون مستخدم
+FailedToAcceptOrder : فشل في قبول الحجز
+OrderWasNotFound : لم يتم العثور على الطلب
+VisitingDateAndTimeCan'tBeAssignedToTheOrder : لا يمكن تعيين تاريخ ووقت الزيارة إلى الحجز.
+PatientUserIdWasNotFound : لم يتم العثور على معرف المستخدم للمريض
+OrderHasBeenCancelled : تم إلغاء الحجز
+OrderCan'tBeUpdated : لا يمكن تحديث الحجز.
+OrderHasBeenUpdatedSuccessfully : تم تحديث الحجز بنجاح.
+OrderCan'tBeAssignedToNurse : لا يمكن تعيين الحجز للممرضة.
+ErrorCreating : حدث خطأ أثناء الإنشاء
+CreatedSuccessfully : تم الإنشاء بنجاح
+ErrorUpdatingWithThisId : خطأ في التحديث مع هذا المعرف
+ErrorDeletingWithThisId : خطأ في الحذف باستخدام هذا المعرف
+ItemsAreUpdatedSuccessfully : تم تحديث العناصر بنجاح
+FailedToChangeTheStateToNurseAccepted : فشل تغيير الحالة إلى الممرضة مقبولة.
+LabUserIdWasNotFound : لم يتم العثور على معرف مستخدم المختبر
+YouHaveSuccessfullyAcceptedTheOrder : لقد قبلت الحجز بنجاح.
+FailedToChangeStateToNurseOnTheWay : فشل تغيير الحالة إلى الممرضة في الطريق.
+YourJourneyToThePatientHasStartedSuccessfully : لقد بدأت رحلتك إلى المريض بنجاح.
+FailedToChangeStateToNurseArrived : فشل تغيير الحالة إلى وصول الممرضة.
+YouHaveArrivedSuccessfully : لقد وصلت بنجاح.
+StateIsAlreadyStartSampleCollection : الحالة بدأت بالفعل في بدء جمع العينات
+NoQR-CodeWasScannedOrPIN-CodeWasEntered : لم يتم مسح رمز QR أو إدخال رمز PIN.
+InvalidQRCodewasScanned : تم فحص QRCode غير صالح.
+InvalidPINWasEntered : تم إدخال رقم تعريف شخصي غير صالح.
+FailedToChangeStateToStartSampleCollection : فشل في تغيير الحالة لبدء جمع العينات.
+FailedToChangeStateToSampleReceivedByNurse : فشل تغيير الحالة إلى العينة استلمتها الممرضة.
+SampleReceivedSuccessfully : تم استلام العينة بنجاح
+PatientWithThisIdIsn'tFound : لم يتم العثور على المريض بهذا المعرف.
+ItemWithThisIdIsn'tFoundOrYouAreNotAuthorized : لم يتم العثور على العنصر الذي يحمل هذا المعرف أو أنك غير مصرح له.
+ThereIsTestsOverlappedWithTestsOfGroups : هناك فحوصات متداخلة مع فحوصات المجموعات
+PatientsAreCreatedSuccessfully : تم إنشاء المرضى بنجاح
+PatientsAreCreatedUnsuccessfully : تم إنشاء المرضى دون جدوى
+AnErrorOccurredWhileMakingAnApiCall : حدث خطأ أثناء إجراء استدعاء API.
+AnErrorOccurredWhileTryingToGetPayment : حدث خطأ أثناء محاولة الحصول على الدفع.
+ErrorProcessingWebhookData : حدث خطأ أثناء معالجة بيانات الرد التلقائي على الويب.
+WebhookReceivedAndItemIsUpdatedSuccessfully : تم استلام Webhook وتم تحديث العنصر بنجاح.
+UserQueryIsCreatedSuccessfully : تم إنشاء استعلام المستخدم بنجاح.
+FailedToChangeStateToNurseAssigned : فشل تغيير الحالة إلى تعيين الممرضة.
+NurseUserIdWasNotFound : لم يتم العثور على معرف المستخدم للممرضة
+PrevAssignedNurseWasNotFound : السابق لم يتم العثور على الممرضة المعينة
+TheNurseHasBeenSuccessfullyAssigned : تم تعيين الممرضة بنجاح.
+FailedToChangeStateToSampleRecievedByLab : فشل تغيير الحالة إلى العينة تم استلمها بواسطة المختبر.
+FailedToChangeStateToResultsUploaded : فشل تغيير الحالة إلى تم تحميل النتائج.
+ResultsUploadedSuccessfully : تم تحميل النتائج بنجاح.
+FailedToChangeStateToOrderCancelled : فشل تغيير الحالة إلى تم إلغاء الحجز
+CanNotFindTheLab : لا يمكن العثور على المختبر
+FailedToCreateOrder : فشل في إنشاء الحجز.
+FailedToChangeStateToOrderPlacedByLab : فشل تغيير الحالة إلى الحجز المقدم بواسطة المختبر.
+SuccessfullySend : تم الإرسال بنجاح
+FailedToSendEmail : فشل في إرسال البريد الإلكتروني
+SuccessNotify : إشعار ناجح
+OrderStateSuccessfullyChangedToStartSampleCollection : تم تغيير حالة الحجز بنجاح لبدء جمع العينات.
+LabsUserIdWasNotFound : لم يتم العثور على معرف مستخدم المختبرات
+FailedToChangeTheStateToOrderRescheduled : فشل تغيير الحالة إلى تأجيل الحجز.
+OrderCanNotBeFound : لا يمكن العثور على الحجز.
+OrderAlreadyIsCancelled : تم إلغاء الحجز بالفعل.
+ThereIsTestsOverlappedWithTestGroups :  هناك فحوصات تتداخل مع مجموعات الفحوصات.
+TheRequestWasSuccessful : تم الطلب بنجاح
+AbadRequestWasReceivedByTheServer : تم استلام طلب سيء من قبل الخادم
+TheRequestRequiresAuthentication : الطلب يتطلب المصادقة
+TheRequestedResourceCouldNotBeFound : تعذر العثور على المورد المطلوب
+AnInternalServerErrorOccurred : حدث خطأ داخلي في الخادم
+CouponWithThisCodeIsNotFound : لم يتم العثور على كوبون مع هذا الرمز
+Two-FactorAuthenticationCode : رمز المصادقة الثنائية
+UserNotAuthenticatedOrInvalidUserID : لم يتم التحقق من المستخدم أو معرف المستخدم غير صالح
+YouAreNotAuthorizedToUnsubscribeThisUser : غير مسموح لك بإلغاء اشتراك هذا المستخدم
+SuccessfullyUnsubscribedFromTheWishlist : تم إلغاء الاشتراك بنجاح من قائمة الرغبات
+UnsubscriptionFailedPleaseTryAgainLater : فشل إلغاء الاشتراك، يرجى المحاولة مرة أخرى لاحقًا
+BadRequest : طلب سيء
+Forbidden : محرم
+NotFound : غير موجود
+InternalServerError : خطأ داخلي في الخادم
+UnknownError : خطأ غير معروف
+UserIdIsNotFound : لم يتم العثور على معرف المستخدم
+TokenIsAddedSuccessfully : تم إضافة الرمز بنجاح
+TokenAlreadyExists : الرمز موجود بالفعل
+NotificationsIsSentSuccessfully : تم إرسال الإشعارات بنجاح
+workingTimesIsn'tFound : لم يتم العثور على وقت العمل
+WhatsAppMessageSentSuccessfully : تم إرسال رسالة الواتس اب بنجاح
+PaymentWithThisIdIsn'tFound : الدفع باستخدام هذا المعرف غير موجود
+PDFSavedSuccessfully : تم حفظ الملف بنجاح
+The'ReportBase64'FieldIsMissingInTheJSON : حقل "قاعدة التقرير 64" مفقود في الملف
+ErrorProcessingWebHookData : حدث خطأ أثناء معالجة بيانات ربط الويب
+TriggeredReportSubmitPDFSuccessfully : تم تشغيل التقرير، إرسال الملفات بنجاح
+ErrorTriggeringReportSubmitPDF : حدث خطأ أثناء تشغيل التقرير، أرسل الملف
+ItemRemovedFromCompareList: تمت إزالة العنصر من قائمة المقارنة
+SomethingWentWrongWhileRetrievingData : حدث خطأ ما أثناء استرداد البيانات
+InvalidCoupon : كوبون غير صالح
+VisitDateMustBeBefore : يجب أن يكون تاريخ الزيارة قبل ذلك
+
+#FilterByCategory
+StartFrom : تبدأ مــــــن
+FilterByCategory : تصفية بالفئة
+
+#Actions
+WelcomeToTahlili : مرحبا بكم في  تحليلي
+LoginYouAccount : تسجيل الدخول إلى حسابك
+Action: العمليات
+Add: إضافة
+Update: تحديث
+Delete: حذف
+Remove: إزالة
+Navigate: العودة إلى
+Submit: إرسال
+Reset: إعادة تعيين
+New: جديد
+Done: تم
+Close: إغلاق
+Edit: تحرير
+Select All: تحديد الكل
+Register: تسجيل
+Dashboards: لوحات القيادة
+Dashboard: لوحة القيادة
+FileName: اسم الملف
+All: الكل
+NoRecordsToDisplay: لا توجد بينات للعرض
+Print : طباعة
+ItemAddedToCompareList: تمت إضافة العنصر لقائمة المقارنة
+Step: الخطوه
+Previous: السابق
+of: من
+Next: التالي
+Incorrect Captcha. Please try again.: كلمة التحقق غير صحيح. حاول مرة اخرى.
+
+#Common
+AdministrativeControlCenter: مركز التحكم الإداري
+KSA: المملكة العربية السعودية
+Country: البلد
+PatientsNamePH: اسم المريض
+CountryOfOrigination: بلد الأصل
+MyProfile: حسابي
+English: الانجليزية
+Arabic: العربية
+SignIn: تسجيل الدخول
+SignOut: تسجيل الخروج
+Tahlili: تحليلي
+TahliliApp: برنامج تحليلي
+DateOfBirth: تاريخ الولادة
+Gender: الجنس
+Email: البريد الإلكتروني
+Password: كلمة المرور
+Language: اللغة
+Nationality: الجنسية
+IdNumber: رقم الهوية
+Phone: الهاتف
+Address: العنوان
+Addresses: العناوين
+City: المدينة
+Longitude: خط الطول
+Latitude: خط العرض
+Price: السعر
+ArName: الاسم بالعربي
+EnName: الاسم بالإنجليزي
+Home: الصفحة الرئيسية
+Mobile: الهاتف المحمول
+ContactEmail: البريد الإلكتروني للتواصل
+Hotline: الخط الساخن
+Website: الموقع الإلكتروني
+About: حول
+Mission: الرسالة
+Vision: الرؤية
+Lookups: قوائم البحث
+Image: الصورة
+QuickView : رؤية سريعة
+ShopByCategory : تصفح حسب الاقسام
+ShopNow : أطلب الآن
+ShopByPartner : تصفح حسب المختبر
+ValidFor : صالحة ل
+Code : الكود
+CopyCode : نسخ الكود
+RecommendedPackages : الباقات الموصى بها
+TailoredPackages : الباقات المخصصة
+Welcome : مرحباً
+LoginToYourAccountToWatchYourRecommendationsPackgaes : قم بتسجيل الدخول إلى حسابك لمشاهدة باقات التوصيات الخاصة بك
+TestsGroups : مجموعات الفحوصات
+History : سجل التصفح الخاص بك
+SkipForNow: تجاهل الآن
+SearchHere : ابحث هنا......
+I'mSearchingFor : أبحث عن.......
+TahliliAddress : ٣٠٥  شارع الذهب مكتب الرياض ٩٠٩٧
+ChangePassword: تغير كلمه المرور
+ShowQuickView : إظهار عرض سريع
+Rate : تقييم
+ShowDetails : عرض التفاصيل
+UpdateInfo : تحديث المعلومات
+EditAdress : تحديث العنوان
+Do not have an account?: ليس لديك حساب؟
+UpTo : يصل إلى
+Get : احصل على
+Off : خصم
+Captcha: كلمة التحقق
+SuccessfullyAdded: تم اضافتة بنجاح
+YouDoNotHavePermissionToCreateOrder: ليس لديك إذن لإنشاء الحجز
+NoIdNumber: لا يوجد رقم معرف
+ItemAddedBefore: تمت إضافة العنصر من قبل
+#home
+Products: منتجات
+Join our newsletter and get...: انضم إلى نشرتنا الإخبارية واحصل على
+Enter Your Email: أدخل بريدك الإلكتروني
+GeneticTests : جيناتي الوراثية
+Map: الخريطة
+#Login
+YouHaveExceededTheMaximumNumberOfOTPRetries.PleaseWaitBeforeTryingAgain.: لقد تجاوزت الحد الأقصى لمحاولات إدخال رمز التحقق. يرجى الانتظار قبل المحاولة مرة أخرى.
+PleaseEnterTheOneTimePasswordToVerifyYourAccount : الرجاء إدخال كلمة المرور لمرة واحدة للتحقق من حسابك
+EmailAddressOrPhoneNumber : عنوان البريد الإلكتروني أو رقم الهاتف
+ForgotPassword? : هل نسيت كلمة السر ؟
+ForgotPassword :  نسيت كلمة السر
+CreateNewProfile : إنشاء ملف تعريف جديد
+CreateNewAccount : انشاء حساب جديد
+NameEn : الاسم باللغة الإنجليزية
+NameAr : الاسم بالعربي
+E-mail : البريد الإلكتروني
+ConfirmPassword : تأكيد كلمة المرور
+IAgreeWith : بالنقر على زر إرسال، فانك توافق علي
+TermsofService : شروط الخدمة
+and : و
+ACodeHasBeenSentToYourPhone : تم إرسال الكود إلى هاتفك
+Didn'tGetTheCode : لم تحصل على الكود
+PleaseWaitFor : الرجاء الانتظار
+BeforeSendingAnotherCode : قبل إرسال كود آخر
+ResendIt : إعادة الإرسال
+Validate : التحقق
+AlreadyHaveAnAccount? : لديك حساب بالفعل ؟
+Login : تسجيل الدخول
+SorryYouNeedToLoginFirstToUnsubscribe: عذرًا، يجب عليك تسجيل الدخول أولًا لإلغاء الاشتراك.
+YouHaveSuccessfullyUnsubscribed: لقد تم إلغاء الاشتراك بنجاح
+RedirectingIn: جارٍ التوجيه في
+seconds: ثواني
+UnauthorizedToUnsubscribe: غير مصرح بإلغاء الاشتراك
+Weeks :  اسبوع
+Months : شهر
+Riyadh : الرياض
+Jeddah : جدة
+SelectALocation : حدد الموقع
+OpeningSoonAndForInquiresContactUs : الافتتاح قريبًا وللاستفسارات اتصل بنا
+
+#Register
+General Information: معلومات عامة
+Select Gender: اختيار الجنس
+Select Nationality: اختيار الجنسية
+Select Language: اختيار اللغة
+Sign In Credentials: بيانات تسجيل الدخول
+Saudi Id Number must start with 1: يجب أن يبدأ رقم الهوية السعودية بالرقم 1
+non-Saudi Id Number must start with 2: يجب أن يبدأ رقم الهوية غير السعودية بالرقم 2
+
+#Partners
+Partner: المختبر
+Partners: المختبرات
+Classification: التصنيف
+Symbol: الرمز
+Abbreviation: الاختصار
+ReferencePrice: السعر المرجعي
+Description: الوصف
+Instructions : التعليمات
+Partners Tests: فحوصات المختبرات
+PartnerTests: فحوصات المختبر
+PartnerTest: فحص المختبر
+TestName: اسم الفحص
+NurseFees1: الخدمة المنزلية 1
+NurseFees2: الخدمة المنزلية 2
+NurseFees3: الخدمة المنزلية 3
+PartnersTests: فحوصات المختبرات
+PartnerDashboard : لوحة معلومات المختبر
+Gallery : المعرض
+CertifiedPartner : مختبر معتمد
+ContactDetails : معلومات التواصل
+ContactUs : إتصل بنا
+NoProvidedAddress : لا يوجد عنوان متوفر
+NoProvidedPhone : لا يوجد هاتف متوفر
+Doesn'tHaveAnyLabs : ليس لديها أي مختبرات
+TaxNumber : الرقم الضريبي
+ProvidedBy : مقدم بواسطة
+
+#Patients
+Patient: المريض
+Patients: المرضى
+BasicInfo: المعلومات الأساسية
+AdditionalInfo: معلومات إضافية
+FemaleAdditionalInfo: معلومات إضافية للإناث
+LifeStyle: نمط الحياة
+GoogleMapsURL: رابط Google Maps
+PatientNumber: رقم الهوية
+MobileNumber: رقم الجوال
+PhoneNumber: رقم الهاتف
+IDorPassportNumber: رقم الهوية / جواز السفر
+Height: الطول (سم)
+Weight: الوزن (كجم)
+Ethnicity: العرق
+Pregnancy: حامل؟
+PregnancyDueDate: تاريخ الولادة المتوقع
+Breastfeeding: الرضاعة الطبيعية
+Postpartum: ما بعد الولادة
+Period: دورة شهرية
+BloodType: فصيلة الدم
+Conditions: الحالات الطبية
+AddConditionsforFamilyMembers: إضافة حالات لأفراد الأسرة
+Allergies: الحساسيات
+Medications: الأدوية
+Supplements: المكملات الغذائية
+Therapies: العلاجات
+Surgeries: العمليات الجراحية
+FamilyHistory: تاريخ الأمراض الوراثية في العائلة
+FamilyMembers: أفراد الأسرة
+DailyLifeStress: التوتر اليومي
+RecentTravels: الرحلات الأخيرة
+Diets: العادات الغذائية
+PhysicalActivity: النشاط البدني
+SmokingLevels: مستوى التدخين
+AlcoholLevels: مستوى الكحول
+DurationOfSleep: مدة النوم
+HydrationLevel: مستوى الترطي
+CaffeinatedBeverages: المشروبات المنبهة
+EnergyDrinks: مشروبات الطاقة
+PatientInfo : معلومات المريض
+
+#wishlist
+Wishlist : المفضلة
+NoItemsInTheWishList : لا توجد عناصر في قائمة المفضلة
+
+#Copoun
+Hours: ساعات
+
+#Tests
+Tests: الفحوصات
+Test: فحص
+ClassificationId : رقم التصنيف
+Storage : التخزين
+Tubes : عدد الأنابيب
+UrineContainers : حاويات البول
+StoolContainers : حاويات البراز
+InstructionsAboutTools : تعليمات حول الأدوات
+SelectStorage : حدد التخزين
+EnterTestInstructions : ادخل تعليمات الاختبار
+EnterDescriptionAboutTest : أدخل وصف حول الاختبار
+EnterTestSymbol : أدخل رمز الاختبار
+EnterTestAbbreviation : أدخل اختصار الاختبار
+CSVFile : ملف CSV
+Processing : تحت المعالجة
+DownloadTestsCSVTemplate : قم بتنزيل قالب اختبارات CSV
+ShowMore : عرض المزيد
+ReferenceTAT : وقت الاستجابة المرجعي
+Tests2: فحص
+Markers  : مؤشرات
+TestP : فحوصات
+
+#Labs
+Lab: فرع
+Labs: الفروع
+LabId: معرف الفرع
+Actions: العمليات
+OpeningHours: ساعات العمل
+GoogleMapsLink: رابط خرائط جوجل
+Districts: الاحياء
+District: الحي
+items : عناصر
+
+#Nurses
+Nurse: ممرضة
+Nurses: ممرضات
+LicenseNumber: رقم رخصة الممرضة
+Shift: الوردية
+StartingTime: وقت البدء
+EndingTime: وقت الانتهاء
+CertificateTitle: عنوان الشهادة
+CertificateURL: رابط الشهادة
+WorkingTimes: أوقات العمل
+Day: اليوم
+
+#auditing
+IP: عنوان IP
+Login Date: تاريخ الدخول
+Id: المعرف
+User Id: معرف المستخدم
+Role: الدور
+Type: النوع
+Table Name: اسم الجدول
+Date: التاريخ
+Affected Columns: الأعمدة المتأثرة
+New Value: القيمة الجديدة
+Old Value: القيمة القديمة
+Back: الرجوع
+No log entries found.: لم يتم العثور على أي سجلات
+Auditing: التدقيق
+Login Logs: سجلات الدخول
+Audit Details: تفاصيل التدقيق
+LoginLogs: سجلات الدخول
+Bookmarks : المفضلة
+login Log : سجل الدخول
+Current User : المستخدم الحالي
+
+#packages
+Package: باقة
+Packages: الباقات
+PackageExcludeTags : العلامات المستبعدة من الباقة
+PackageIncludeTags : العلامات المتضمنة في الباقة
+PackageMarketingTags : العلامات التسويقية للباقة
+NumberOfOffers : عدد العروض
+
+#confirm email
+Email Confirmed: تم تأكيد البريد الإلكتروني
+
+
+#packagesPartners
+PartnersPackages : باقات المختبرات
+PartnerPackages: باقات المختبر
+PackageName: اسم الباقة
+PartnerPackageDetails : تفاصيل باقات المختبر
+PartnerPackage : باقاتة المختبر
+PackageHelp : باقاتة مساعدة
+SampleCollection : جمع العينات
+Biomarkers : المؤشرات الحيوية
+ExcludeTags : استبعاد العلامات
+IncludeTags : يتضمن العلامات
+MarketingTags : العلامات التسويقية
+PackagePanels : لوحات الباقة
+RelatedPackages : الباقات ذات الصلة
+InMinutes : في دقائق
+BioMarkers : المؤشرات الحيوية
+TargetGender : الجنس المستهدف
+TargetBMI : مؤشر كتلة الجسم المستهدف
+TargetAge : العمر المستهدف
+Samples : عينات
+PackageType : نوع الباقة
+DoctorRecommended : أوصى الطبيب
+ProcessingTimeInMinutes : وقت العملية بالدقائق
+PackageTests : فحوصات الباقة
+PackageBmis : المؤشرات الحيوية لباقة
+PackageSamples : عينات الباقة
+PackageAges : أعمار الباقة
+PackageCategories : فئات الباقة
+PackageGroups : مجموعات الباقة
+PackageBiomarkers : المؤشرات الحيوية لباقة
+PackageDetails : تفاصيل الباقة
+
+#Partners Groups
+PartnersGroups : مجموعات المختبرات
+PartnerGroups : مجموعات المختبر
+Group : المجموعة
+GroupName : اسم المجموعة
+PartnerGroup : مجموعة الشركاء
+GroupDetails : تفاصيل المجموعة
+GroupTests : فحوصات المجموعة
+
+#partnerTest
+TestDetails : تفاصيل الفحص
+PartnerDetails : تفاصيل المختبر
+URL: الرابط
+SelectedItems : العناصر المختارة
+AddToCart : احجز الان
+AddToWishlist : أضف إلى قائمة المفضله
+
+#Feedbacks
+FBNurseAvg:  تقييمات الممرضات
+FBServiceAvg: تقييم الخدمة
+FBAvg: التقييم
+
+
+
+#orders
+RequestReservation: طلب حجز
+reservation Requested We Will Contact You Soon: تم طلب الحجز وسوف نتصل بك قريبًا
+You have: لديك
+remaining to pay. Please proceed to: المتبقية للدفع. يرجى المتابعة إلى
+for payment.: للدفع.
+this link: هذا الرابط
+Orders: الحجوزات
+Order: الحجز
+OrderId: رقم الحجز
+VAT: ضريبة القيمة المضافة
+PriceWithVAT: السعر شامل ضريبة القيمة المضافة
+AtHome: في المنزل ؟
+FeedbackValue: تقييم الخدمة
+FeedbackNotes: تعليق
+Groups: المجاميع
+OrderItems: عناصر الحجز
+Mrs: السيد\السيدة
+OrderingDate: تاريخ الحجز
+OrderState: حالة الحجز
+PreferedVisitingDateAndTime: تاريخ ووقت الزيارة المفضل
+PreferedVisitingDate: تاريخ الزيارة المفضل
+PreferedVisitingTime: وقت الزيارة المفضل
+ActualVisitngDateAndTime: تاريخ ووقت الزيارة الفعلي
+SAR: ريال
+From: من
+To: إلى
+Prices: الأسعار
+TotalPrice: السعر الإجمالي
+AssignedNurse: الممرضة المكلفة
+Mr/s: السيد/السيدة
+TestsInstructions: تعليمات الاختبارات
+PrintQRCode: طباعة رمز الاستجابة السريعة (QR)
+GeneralInfo: معلومات عامة
+Feedbacks: التقييمات
+OrderStateAndActions: حالة الحجز والإجراءات
+ViewInstructions: عرض التعليمات
+PrintQrCode: طباعة رمز الاستجابة السريعة (QR)
+Show: عرض
+QRCode: رمز الاستجابة السريعة (QR)
+Rating: التقييم
+Feedback: التقييم
+Service: الخدمة
+AcceptOrder: قبول الحجز
+AssignNurse: تعيين الممرضة
+StartJourney: بدء الرحلة
+NurseOnTheWay: الممرضة في الطريق
+View: عرض
+onThe: في
+ArrivedToPatient: وصول إلى المريض
+UploadResults: تحميل النتائج
+NurseAgreement: لقد قرأت وأوافق على جميع تعليمات الاختبارات
+NoInstuctionsToShow: لا توجد تعليمات لعرضها
+CantViewFeedback: آسف، لا يمكن عرض التقييم حاليًا
+Summary: الملخص
+RatePatient: تقييم المريض
+RateServiceAndNurse: تقييم الخدمة والممرضة
+RateService: تقييم الخدمة
+ShowGroupsTests: عرض اختبارات المجموعات
+ShowPackagesTests: عرض اختبارات الباقات
+CantAddFeedBackDearPatient: آسف، لا يمكن تقييم الممرضة والخدمة حاليًا
+CantAddFeedBackDearNurse: آسف، لا يمكن تقييم المريض حاليًا
+SampleRecieved: تم استلام العينة
+NoNurseWarning: يرجى ملاحظة أنه لا توجد ممرضات متاحة لتعيين الطلب.
+FinishOrder : إنهاء الحجز
+OrderSuccess :  طلب ناجح
+PaymentIsSuccessfullyAndYourOrderIsOnTheWay : تم الدفع بنجاح وحجزك على الطريق
+TransactionID : رقم المختبراتة
+ViewDetails : عرض التفاصيل
+OrderFailed : فشل الحجز
+PaymentIsFailedAndYourOrderIsCancelled : فشل الدفع وتم إلغاء حجزك
+BackToCart : العودة إلى سلة التصفح
+OrderDetails : تفاصيل الحجز
+OrderSummary : ملخص الحجز
+NoInstructions : لا توجد تعليمات
+PINCODE : الكود السري
+CancelOrRescheduleOrder: حذف او اعادة جدولة الحجز
+QRCodeAndPINCode : رمز الاستجابة السريعة والكود السري
+PleaseInformTheNurseToEitherScanTheQRCodeOrToEnterThe6-DigitsPINCodeOnHis/HerArrival : يرجى إبلاغ الممرضة إما بمسح رمز الاستجابة السريعة ضوئيًا أو لإدخال  الكود السري المكون من 6 أرقام عند وصوله/وصولها
+Method : الطريقة
+PaymentDetails : تفاصيل الدفع
+PriceDetails : تفاصيل السعر
+PayNow : إدفع الآن
+RateNurseAndService : تقييم الممرضة والخدمة
+ActualDateAndTime : التاريخ والوقت الفعلي
+ChoosenDateAndTime : التاريخ والوقت المحدد
+OrderFeedback : تقيم الحجز
+Scan: مسح
+BackToOrders: العودة الى الحجوزات
+CantViewFeedBackOnPatient: عذرًا، لا يمكن عرض التقييمات للمرضى حاليًا
+CantViewFeedBackOnNurse: عذرًا، لا يمكن عرض التقييمات للممرضات حاليًا
+CantViewFeedBackOnService: عذرًا، لا يمكن عرض التقييمات للخدمات حاليًا
+YouCan'tAddFeedbackAboutTheNurseBeforeSampleIsReceived : لا يمكنك إضافة التقييمات حول الممرضة قبل استلام العينة
+YouCan'tAddFeedbacksAboutTheServiceBeforeTheResultsUploaded : لا يمكنك إضافة التقييمات حول الخدمة قبل رفع النتائج.
+PaymentType : نوع الدفع
+CurrentPrefferedDateAndTimeWas : التاريخ والوقت المفضل الحالي كان
+NoUploadedFiles : لا توجد ملفات مرفوعة
+File : ملف
+DownloadFile : تحميل الملف
+DeleteFile : حذف الملف
+CantDetectQRCode : لا يمكن الكشف عن رمز الاستجابة السريعة
+Body : المحتوي
+OptionalToken : الرمز اختياري
+FirebaseCloudMessagingToken : رمز المراسلة السحابي Firebase
+SendNotification : إرسال الإشعارات
+PatientIdNumber : رقم هوية المريض
+Sorry! you need to Login First in order to see your orders: عذرًا! يجب أن تقوم بتسجيل الدخول أولًا لرؤية طلباتك
+FeedbackAboutNurse : تقيم عن الممرضة
+FeedbackAboutService : تقيم عن الخدمة
+AddFeedback : إضافة تقييم
+Receipt : إيصال
+Image Preview: عرض الصورة
+#OrderTracking
+OrderTracking: تتبع الحجز
+OrderPlaced: تم الحجز
+RecievedByLab: تلقاها المختبر
+LapAccepted: تم قبول المختبر
+NurseAssigned: تم تعين ممرضة
+NurseAccepted: تم قبول الممرضة
+NurseonTheWay: الممرضة في الطريق
+NurseArrived: الممرضة وصلت
+TestRecivedByNurse: تلقت الممرضة الاختبار
+TestRecivedByLab: تلقي المختبر الاختبار
+PendingResults: انتظر النتائج
+ResultsUploaded: تم تحميل النتائج
+LastUpdateAt : آخر تحديث في
+PreviousPrefferedDateAndTimeWas : التاريخ والوقت المفضل السابق كان
+
+
+
+#cart
+Cart: عربة التصفح
+CartItem: عنصر في العربة
+Loading : جاري التحميل
+ItemsFrom : العناصر من
+YouSave : يمكنك الحفظ
+NoItemsInTheCart : لا يوجد عناصر في السلة
+BackToHomeScreen : العودة إلى الشاشة الرئيسية
+CartTotal : إجمالي سلة التصفح
+Subtotal : الإجمالي الفرعي
+CouponDiscount : خصم الكوبون
+NurseFees : الخدمة المنزلية
+Total : الإجمالي
+PrefferedVisitingDateandTime : التاريخ والوقت المفضل للزيارة
+PreferredVisitingDateAndTime: التاريخ والوقت المفضل للزيارة
+PreferredDate : التاريخ المفضل
+PrescriptionsAndMedications : الوصفات الطبية والأدوية
+UploadPrescriptions : تحميل الوصفات الطبية
+SelectMedications : اختر الأدوية
+SelectAddress : اختر العنوان
+SelectLab : حدد فرع
+Order'sSpecifications : مواصفات الحجز
+NurseGender : جنس الممرضة
+NurseType : نوع الممرضة
+PaymentAndCheckout : الدفع و إنهاء الشراء
+CreateOrder: إنشاء الحجز
+CreditCard : بطاقة إئتمان
+STCPay : إس تي سي باي
+ApplePay : ابل باي
+PrefferedVisitingDateTime : التاريخ والوقت المفضل للزيارة
+SelectPaymentType : اختر نوع الدفع*
+Enter Coupon Code Here: أدخل رمز الكوبون هنا
+Working Times For: أوقات العمل لـ
+At Home: في المنزل
+On Site: في المختبر
+Preferred Date : التاريخ المفضل
+Cash/Credit Card on visit: نقدًا او بطاقة الائتمان عند الزيارة
+Credit Card: بطاقة الائتمان
+Credit Card on Visit: بطاقة الائتمان عند الزيارة
+Add New Address: إضافة عنوان جديد
+Emergency: حالة طارئة
+Male: ذكر
+Female: أنثى
+Pediatric: ممرض/ة أطفال
+Please enter a valid date and time within: الرجاء إدخال تاريخ ووقت صالح ضمن
+working shifts for: فترات العمل لـ
+Add Feedback: إضافة تقييم
+Reschedule Order: إعادة جدولة الحجز
+Bad: سيء
+Not Good: ليس جيدًا
+Sufficient: كافٍ
+Good: جيد
+Awesome!: رائع!
+Rate our App!: قيم تطبيقنا!
+InvalidTimeRange: النطاق الزمني غير صالح
+OrderTo: احجز إلى
+SelectPatient: اختار المريض
+UpdateProfile: تعديل الملف
+Select Relation: صلة القرابة
+Relationship: صلة القرابة
+
+#Roles
+Admin: مدير
+CustomerExperience : مركز الاتصال
+
+#Profile
+Profile: الصفحة الشخصية
+ProfileCompleation: إكمال الملف الشخصي
+FullName: الاسم الإنجليزي الكامل
+FullArabicName: الاسم العربي الكامل
+Mode: الرؤية
+Light: الرؤية النهارية
+Dark: الرؤية اليلية
+System: النظام
+Profile Details: تفاصيل الملف الشخصي
+Details Completed: تفاصيل مكتملة
+Profile Photo Exist: صورة الملف الشخصي موجودة
+Two-FactorAuth: المصادقة الثنائية
+We need your attention: نحتاج إلى انتباهك
+Your profile isn't completed: ملفك الشخصي غير مكتمل. لإكمال ملفك الشخصي، يرجى التحقق من الأقسام التالية
+You profile is completed: ملفك الشخصي مكتمل
+Congratulation: تهانينا
+Sign-in Method: طريقة تسجيل الدخول
+Reset Password: إعادة تعيين كلمة المرور
+Current Password: كلمة المرور الحالية
+PasswordValidationTip: يجب أن تحتوي كلمة المرور على الأقل 8 أحرف، حرف كبير، حرف صغير، رقم، ورمز
+Update Password: تحديث كلمة المرور
+Secure Your Account: أمن حسابك
+Two-factorPreTip: المصادقة الثنائيه تضيف طبقة إضافية من الأمان إلى حسابك. لتسجيل الدخول، ستحتاج أيضًا إلى تقديم رمز مكون من 6 أرقام
+Two-factorPostTip: لتسجيل الدخول، ستحتاج إلى تقديم رمز مكون من 6 أرقام
+Enable: تمكين
+Your Account Is Secured: تم تأمين حسابك
+Disable: تعطيل
+Authentication Method: طريقة المصادقة
+Auth1stModalTip: بالإضافة إلى اسم المستخدم وكلمة المرور الخاصة بك، ستضطر إلى إدخال رمز (يتم تسليمه عبر التطبيق) لتسجيل الدخول إلى حسابك
+Auth2ndModalTip: امسح رمز الاستجابة السريعة. سيولد لك رمزًا مكونًا من 6 أرقام
+Use the authenticator app: استخدم تطبيق المصادقة
+Google Authenticator: جوجل أوثنتيكيتور
+AuthManualCodeTip: إذا واجهت صعوبة في استخدام رمز الاستجابة السريعة، حدد إدخال يدوي على تطبيقك، وأدخل اسم المستخدم والرمز
+Authenticator App: تطبيق المصادقة
+GetCodesFromGoogleAuth: احصل على الأكواد من تطبيق جوجل أوثنتيكيتور
+Continue: استمرار
+Confirm email: تأكيد البريد الإلكتروني
+Last Update At: اخر تحديث في
+Current Order State: الوضع الحالي الحجز
+Order Tracking: تتبع الحجز
+Order Placed: تم الحجز
+Recieved by Lab: تم التسليم في الفرع
+Lab Notified: تم  اشعار المختبر
+Nurse Assigned: تم تعين ممرضة
+Nurse Accepted: تم قبول الممرضة
+Nurse on the way: الممرضة في الطريق
+Nurse Arrived: الممرضة وصلت
+Sample Received by Nurse: تلقت الممرضة الفحص
+Sample Received by Lab: تلقي الفرع الفحص
+Pending Results: انتظر النتائج
+Results Uploaded: تم تحميل النتائج
+Link your account with Google: ربط الحساب مع جوجل
+Order Cancelled: حذف الحجز
+AddProfile : إضافة ملف شخصي
+Two-FactorAuthentication : المصادقة الثنائية
+MultiProfiles : الملفات الشخصية المتعددة
+Profiles : الملفات الشخصية
+ChooseYourProfile : اختر ملفك الشخصي
+AddANewProfile : إضافة ملف شخصي جديد
+FromYourDashboardYouHaveTheAbilityToViewASnapshotOfYourRecentAccountActivity : من لوحة التحكم الخاصة بك، لديك القدرة على عرض لقطة من نشاط حسابك الأخير
+TotalOrder : إجمالي الحجوزات
+TotalPendingOrder : إجمالي الحجوزات المعلقة
+TotalWishlist : إجمالي قائمة الرغبات
+BasicInformation : معلومات أساسية
+MedicalConditions : الحالات الطبية
+DietarySupplements : المكملات الغذائية
+FamilyMedicalHistory : التاريخ الطبي للعائلة
+FemaleAdditionalInformation : معلومات إضافية للإناث
+IsPregnant : حامل
+MensturalCycle : الدورة الشهرية
+DietaryHabits : العادات الغذائي
+SmokingLevel : مستوى التدخين
+AlcoholLevel : مستوى الكحول
+MyAddressBook : دفتر العناوين الخاص بي
+AddNewAddress : إضافة عنوان جديد
+DefaultAddress : العنوان الافتراضي
+GoogleMapsUrl : عنوان URL لخرائط Google
+UploadComplaint : رفع الشكوى
+ProfileName : اسم الملف الشخصي
+LicensedFor : مرخص لـ
+Years : سنوات
+ProfileCompletion : إكمال الملف الشخصي
+ProfileAbout : الملف الشخصي حول
+Birthday : عيد ميلاد
+LoginDetails : تفاصيل تسجيل الدخول
+PhoneNumberAlreadyInUse.PleaseChooseAnother.: رقم الهاتف قيد الاستخدام بالفعل. الرجاء اختيار آخر.
+#RateApp
+RateApp : تقيم التطبيق
+SubmitFeedback : إرسال التقيم
+AddYourFeedback : أضف تقيمك
+
+#Notifications
+Notifications: إشعارات
+Title: العنوان
+SubTitle: العنوان الفرعي
+Seen: تمت رؤيته
+Unseen: لم يتم رؤيته
+Link: رابط
+Admins : المديرون
+
+#ManageUsers
+ManageUsers: ادارة الاعضاء
+Select Role: اختار الدور
+Welcome to the User Management Dashboard: مرحبًا بك في لوحة تحكم إدارة المستخدمين
+Here, you can view manage user accounts. Choose a role from the dropdown above to get started.: هنا، يمكنك عرض وإدارة حسابات المستخدمين. اختر دورًا من القائمة المنسدلة أعلاه للبدء.
+New Email: بريد إلكتروني جديد
+# Submit: إرسال
+Cancel: إلغاء
+NewPassword: كلمة مرور جديدة
+
+#Login layout
+Welcome to Tahlili Portal: مرحبًا بك في بوابة تحليلي
+AND ON-SITE FLOW MANAGEMENT: وإدارة تدفق الموقع
+AT-HOME PRIMARY CARE EXPIERIENCE: تجربة الرعاية الأولية في المنزل
+Opps! Unhandled Exception: عفوًا! استثناء غير مُعالَج
+
+#Login page
+Sign In to Tahlili: تسجيل الدخول إلى تحليلي
+Two-Factor Verification: التحقق بعنصرين مختلفين
+Enter the verification code we sent: أدخل رمز التحقق الذي أرسلناه
+# Email: البريد الإلكتروني
+# Password: كلمة المرور
+Forgot Password ?: هل نسيت كلمة المرور؟
+Type your 6 digit security code: أدخل رمز الأمان المكون من 6 أرقام
+ConfirmEmail : تأكيد البريد الإلكتروني
+EmailConfirmed : تم تأكيد البريد الالكتروني
+EmailAddress : البريد الإلكتروني
+IsLoading : جاري التحميل
+Don'tHaveAnAccount? : ليس لديك حساب ؟
+SignUp : تسجيل
+Support : الدعم
+ResetPassword : إعادة تعيين كلمة المرور
+EnterYourNewPassword : أدخل كلمة المرور الجديدة
+PasswordsDoesn'tMatch: كلمات المرور غير متطابقة
+
+
+
+# Back: العودة
+
+#AccessDenied Page
+YouAreUnauthorizedToAccessThisPage: ليس لديك إذن للوصول إلى هذه الصفحة
+PleaseContactUs : يرجى التواصل معنا.
+IfYouThinkThatYouCanAccessThisPage: إذا كنت تعتقد أنك يمكنك الوصول إلى هذه الصفحة
+GotoHomePage : انتقل إلى الصفحة الرئيسية
+#Confirm Email Page
+Confirm Email: تأكيد البريد الإلكتروني
+Unauthorized : غير مسموح به
+
+#Error-404 Page
+Oops!: عفوًا!
+We can't find that page.: لا يمكننا العثور على تلك الصفحة.
+Return Home: العودة إلى الصفحة الرئيسية
+
+#Error-500 Page
+System Error: خطأ في النظام
+Something went wrong! Please try again later.: حدث خطأ ما! يُرجى المحاولة مرة أخرى لاحقًا.
+# Return Home: العودة إلى الصفحة الرئيسية
+
+#Forgot Password page
+# Forgot Password ?: هل نسيت كلمة المرور؟
+Enter your email to reset your password.: أدخل بريدك الإلكتروني لإعادة تعيين كلمة المرور.
+# Email: البريد الإلكتروني
+# Submit: إرسال
+# Cancel: إلغاء
+
+#Login With Google page
+Continue with Google: متابعة باستخدام جوجل
+Login with Google: تسجيل الدخول باستخدام جوجل
+#Password is changed
+Password is changed: تم تغيير كلمة المرور
+Password Successfully Changed: تم تغيير كلمة المرور بنجاح
+Your password has been updated successfully. You're all set!: تم تحديث كلمة المرور بنجاح. أنت مستعد!
+Sign in: تسجيل الدخول
+
+#Reset Password
+I Agree &: أوافق و
+Terms and conditions: الشروط والأحكام
+ConfirmNewPassword: تأكيد كلمة المرور الجديدة
+Use 8 or more characters with a mix of letters, numbers & symbols.: استخدم 8 أحرف أو أكثر بتنوع من الحروف والأرقام والرموز.
+# New Password: كلمة المرور الجديدة
+Sign in here: تسجيل الدخول هنا
+Setup New Password: إعداد كلمة المرور الجديدة
+
+#Daynamic Filter
+# Action: Action
+Field: حقل
+Operator: عامل
+Value: قيمة
+And: و
+Or: أو
+Contains: يحتوي على
+Starts With: يبدأ بـ
+Ends With: ينتهي بـ
+Does Not Contain: لا يحتوي على
+Does Not Start With: لا يبدأ بـ
+Does Not End With: لا ينتهي بـ
+Apply: تطبيق
+Select Query: اختار
+Save: حفظ
+SearchProducts : البحث عن المنتجات
+Search: البحث
+Filters : عوامل التصفية
+ClearAll : مسح الكل
+SelectType: اختر النوع
+SelectCategory : اختر الفئة
+SelectPartner : اختر مختبر
+Certificates : الشهادات
+SelectCertificate : اختر شهادة
+Filter : فلتر
+FilterMenu : قائمة التصفية
+SortBy : ترتيب حسب
+TotalItems : إجمالي العناصر
+NoItemsFound : لم يتم العثور على عناصر
+
+
+#Prescriptions
+Prescriptions : الوصفات الطبية
+PatientName : اسم المريض
+Prescription : روشتة
+Ischecked : تم التحقق
+Iscontacted : تم التواصل
+IsHandled : تم معالجته
+CheckFields : التحقق من الحقول
+PrescriptionForm : استمارة الوصفة الطبية
+UploadPrescription : تحميل وصفة طبية
+Files : ملفات
+SorryYouNeedToLoginFirstInorderToUploadPrescriptions :  آسف تحتاج إلى تسجيل الدخول
+  أولا من أجل تحميل الوصفات الطبية
+
+
+
+
+#Complaints
+Complaints : شكاوي
+Complaint : شكوى
+CreationTime : تاريخ الأرسال
+IsChecked : تم التحقق
+IsContacted : تم التواصل
+IsClosed :  تم الاغلاق
+HandlingTime : الوقت الكلي
+UploadedFiles : الملفات التي تم تحميلها
+Status : الحالة
+RiyadhOffice : مكتب الرياض
+GetInTouch : ابقى على تواصل
+9097DahbabSt.RiyadhOffice305 : 9097 شارع الذهب مكتب الرياض 305
+UploadComplaints : رفع الشكاوى
+AttachFiles : إرفاق ملفات
+ComplaintsType : نوع الشكاوى
+ComplaintDetails : تفاصيل الشكوى
+
+#Coupons
+Coupons : الكوبونات
+Coupon : كوبون
+StartDate : تاريخ البدء
+EndDate : تاريخ الانتهاء
+NotificationTypes : أنواع الإشعارات
+Classifications : التصنيفات
+Categories : الفئات
+NoOfUses : عدد الاستخدامات
+MaxDiscount : قيمة الخصم
+MaxUse : الاستخدام الأقصى
+Percentage : نسبة الخصم
+WebsiteURL : رابط الموقع
+VideoURL : رابط الفيديو
+NotificationMessage : رسالة التنبيه
+SendNotifications : ارسال إشعارات
+ProvidersFields : حقول مقدمي الخدمة
+SelectClassifications : حدد التصنيفات
+SelectCategories : حدد الفئات
+SelectPartners : حدد الشركاء
+SelectPackages : حدد الباقات
+SelectGroups : حدد المجموعات
+SelectTests : حدد الفحوصات
+SelectNotificationTypes : حدد أنواع الإشعارات
+Count : عدد
+WeHaveAddedNewCouponsYouCanSeeIt : مثال. لقد أضفنا كوبونات جديدة، يمكنك رؤيتها
+CanYouAddDescriptionAboutYourCoupon : مثال. يمكنك إضافة وصف حول كوبونك
+CouponDetails : تفاصيل الكوبون
+HurryUp!CouponEndsIn : أسرع! الكوبون ينتهي في
+Days : أيام
+Min : دقيقة
+Sec : ثانية
+TopTests : الفحوصات الاكثر مبيعا
+Video : فيديو
+General : عام
+GuaranteedSafeCheckout : ضمان الدفع الآمن
+ApplyCopoun : تطبيق الكوبون
+
+# compare
+Compare : مقارنة
+Product : المنتج
+Images : الصور
+ProductType : نوع المنتج
+NumberOfTests : عدد الفحوصات
+IncludedTests : الفحوصات المتضمنة
+
+# footer
+AllTypesOfTests : جميع أنواع الفحوصات
+FreeDeliveryForOrdersOver : التوصيل مجاني للحجوزات التي تزيد عن
+MegaDiscounts : خصومات هائلة
+VarietyOfPricesFromOurPartners : أسعار متنوعة من شركائنا
+AT-HOMEPRIMARYCAREEXPIERIENCEANDON-SITEFLOWMANAGEMENT : تجربة الرعاية الأولية في المنزل وإدارة التدفق في الموقع
+UsefulLinks : روابط مفيدة
+AboutUs : من نحن
+HelpCenter : مركز المساعدة
+YourOrders :  حجوزاتك
+UserDashboard : لوحة تحكم المستخدم
+YourWishlist : قائمة المفضلة
+FAQ : الأسئلة الشائعة
+DownloadApp : تحميل التطبيق
+AllRightsReserved : جميع الحقوق محفوظة
+StayConnected : ابق على اتصال
+MyWish : المفضلة
+UnreadMessages : رسائل غير مقروءة
+ViewWishList : عرض قائمة المفضلة
+ViewCart : عرض العربة
+Hello : أهلا
+MyDashboard : لوحة التحكم الخاصة بي
+ChangeProfile :  تغيير الملف الشخصي
+LogOut : تسجيل الخروج
+AllCategories : جميع الفئات
+Advanced :  متقدم
+AdvancedPackages: الباقات المتطورة
+Essential : ضروري
+Menu : القائمة
+DealToday : التخفيضات الأسبوعية
+DealOfWeek : عرض الأسبوع
+RecommendedDealsForYou : العروض الموصى بها لك
+Category : فئة
+Subscribe : اشتراك
+DiscountForYourFirstOrder : خصم على حجزك الأول
+Install : تثبيت
+
+# contactUs
+FirstName : الاسم الأول
+MiddleName : الاسم الأوسط
+LastName : الاسم الأخير
+Message : محتوي الرسالة
+SendMessage : إرسال الرسالة
+ShowPackagesDetails: عرض تفاصيل الباقات
+TrackOrder: تتبع حالة الحجز
+CouponeDiscount: خصم الكوبون
+ItemCompare: مقارنة الاصناف
+UpdateInformation: تحديث البينات
+AccountCreated: تمت عملية التسجيل بنجاح
+UpdateAddresses: تحديث العنتوين
+Order Rescheduled: اعادة جدولة الحجز
+LatestTestimonals: أحدث الشهادات
+WhatPeopleSay: ما يقوله الناس
+Riyadh Office: مكتب الرياض
+9097 Dahbab St. Riyadh Office 305:  9097 شارع الدهباب, مكتب الرياض 305
+Enter First Name: أدخل الاسم الأول
+Enter Last Name: أدخل اسم العائلة
+Enter Email Address: أدخل عنوان البريد الإلكتروني
+Enter Your Phone Number: أدخل رقم هاتفك
+#Blogs
+Blogs : المدونات
+Author : الكاتب
+Minutes : دقائق القراءة
+ReadCount : عدد القراء
+Blog : مدونة
+AuthorName : اسم الكاتب
+Content : المحتوى
+TypeYourContent : اكتب المحتوى الخاص بك
+BlogCategoryId : معرف فئة المدونة
+ReadMore : قراءة المزيد
+BlogDetails : تفاصيل المدونة
+RescheduleOrder: اعادة جدولة الحجز
+Tags : الكلمات الدلالية
+LoginNow:  سجل الان !
+NewPatient?: هل انت مريض جديد؟
+StartHere: ابدا الأن
+ViewPartnersDetails: عرض تفاصيل المختبر
+ViewPartnersItems: عرض اختبارات ومنتجات المختبر
+ContactWithEmail: الاتصال عبر البريد الإلكتروني
+ContactWithHotline: الاتصال عبر الخط الساخن
+Certified: معتمد
+CreateDate : تاريخ الإنشاء
+CategoryName : اسم التصنيف
+
+MakeSureYouHaveEnteredYourWeightAndHeight: تأكد من إدخال وزنك وطولك
+WatchYourRecommendedPackages: انظر إلى الباقات الموصى بها لديك
+WatchYourTailoredPackages: انظر إلى الباقات المخصصة لديك
+TypeError: TypeError
+
+#Assessment
+Assessment :  تقييم طبي
+Assessments :  التقيمات الطبيه
+Reply : الرد
+AssessmentDetails : تفاصيل التقييم الطبي
+OrderAtHome: الحجز في المنزل
+OrderInLab: الحجز في المختبر
+Order Placed by Lab: اضافة الحجز من قبل المختبر
+SampleResults: نتائج التحاليل
+NoTimeSlotsIsAvailableAtThisDateFor: لا يوجد مواعيد في لهذا التاريخ لمختبر/فرع
+NoData : لا توجد بيانات
+
+#blog
+All Categories:  جميع الفئات
+Endocrinology: الغدد الصماء
+General Medicine Diseases: الأمراض العامة في الطب
+Infectious diseases: الأمراض المعدية
+Medical news: أخبار الطب
+Pregnancy and prenatal screening: الحمل والفحص السابق للولادة
+Gynecology: علم النساء
+Neurology: علم الأعصاب
+genetics: الوراثة
+Cardiology: علم القلب
+Allergology: علم الحساسية
+Children: الأطفال
+Hematology: علم الدم
+
+#filterPage
+Nearest Lab: أقرب مختبر
+A - Z Order: ترتيب من A إلى Z
+Z - A Order: ترتيب من Z إلى A
+Low - High Price: السعر منخفض إلى مرتفع
+High - Low Price: السعر من مرتفع إلى منخفض
+This item is already added from another partner: تمت إضافة هذا العنصر بالفعل من شريك آخر
+Remove from WishList: إزالة من قائمة الرغبات
+Add to WishList: إضافة إلى قائمة الرغبات
+Quick View: عرض سريع
+The nearest lab is approximately: يبعد أقرب مختبر تقريبًا
+kilometers away: كيلومترات
+This Item is already added from another partner: تمت إضافة هذا العنصر بالفعل من مختبر آخر
+Add to cart: إضافة إلى السلة
+Remove from cart: إزالة من السلة
+Turnaround Time: وقت الفحص
+H: س
+Search by name: البحث بالاسم
+1 Star: نجمه
+2 Star: نجمتين
+3 Star: 3 نجوم
+4 Star: 4 نجوم
+5 Star: 5 نجوم
+UniqueItems: العناصر الفريدة
+
+
+#index
+YourUpcomingAppointments: مواعيدك القادمة
+YourPreviousAppointments: مواعيدك السابقة
+At: عند
+With: مع
+AtLab: في المختبر
+AtHome2: في المنزل
+MostRequestedPackages: الباقات الأكثر طلبا
+BrowseByIndividualTest: تصفح حسب الفحص الفردي
+FilterByIndividualTest: تصفية حسب الفحص الفردي
+TotalTests: إجمالي الفحوصات
+WaysToReceiveTheService: كيفية تلقي الخدمة
+ManageMyProfiles: إدارة حساباتي
+TotalPackages: إجمالي الباقات
+CouponCopiedSuccessfully: تم نسخ القسيمة بنجاح
+
+KM: كم
+Away: يبعد
+
+
+#Services
+HealthInsurance: النأمين الصحي
+LaboratoryServices: خدمات المختبرات
+TelemedicineConsultation: استشارة الطبيب عن بُعد
+
+#WalletCredit
+WalletCredit : رصيد المحفظة
+WalletTracking : تتبع المحفظة
+DateTime : التاريخ والوقت
+Amount : المبلغ
+Notes : ملاحظات
+RequestRefund : طلب استرداد
+TheRequestSentSuccessfully : تم إرسال الطلب بنجاح
+
+ThePrescriptionHasBeenHandled: لقد تم التعامل مع الوصفة الطبية
+
+BasicPackages: الباقات الاساسيه
+Me: أنا
+Mother: الأم
+Father: الأب
+Wife: الزوجة
+Husband: الزوج
+Brother: الأخ
+Son: الابن
+Sister: الأخت
+Daughter: الابنة
+GrandFather: الجد
+GrandMother: الجدة
+GrandSon: الحفيد
+GrandDaughter: الحفيدة
+Uncle: العم
+Aunt: العمة
+CostumerService: خدمة العملاء
+JoinUs: انضم الينا
+ChooseYourHomeLocation : اختر موقع منزلك
+EnterYourAddressAndWeWillSpecifyTheOfferForYourArea : أدخل عنوانك وسنقوم بتحديد العرض لمنطقتك
+
+We may encounter difficulties due to the early timing: قد نواجه صعوبات بسبب التوقيت المبكر.
+Rest assured We'll contact you if this time is not available. We'll also reach out to reschedule if needed.: كن مطمئنًا، سنتصل بك إذا لم يكن هذا الوقت متاحًا. وسنبذل جهدًا لإعادة جدولة الموعد إذا لزم الأمر.
